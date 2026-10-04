@@ -5,7 +5,7 @@ import os
 # ========== 配置区 ==========
 # 上游源地址
 URL_LIST = [
-    "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+    #"https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
     "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/others.txt"
 ]   
 
