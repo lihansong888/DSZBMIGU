@@ -5,13 +5,14 @@ import os
 # ========== 配置区 ==========
 # 上游源地址
 URL_LIST = [
-    #"https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+    "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt",
     "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/others.txt"
 ]   
 
 # 分组映射：源内分组名 -> 输出m3u8的分组名
 # 不在KEY里的分组会直接丢弃
 GROUP_MAP = {
+    "港澳台": "HS港澳台直播",
     "https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt": "HS港澳台直播",
     
 }
