@@ -261,6 +261,8 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=37aac0d83374389325d4b3e1e9b8f9b7&to
 http://zby.lskk.top/cdnlive.php?mode=play&id=ccc494fbbbf9a526ffe5dfa40aa86e1d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 group-title="HS港澳台直播",中视菁采台
 http://zby.lskk.top/cdnlive.php?mode=play&id=becfc1b619191c8f324907067c1acd13&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 group-title="HS港澳台直播",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",民视
 http://183.239.108.37:1698/hls/133/index.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",民视
@@ -465,14 +467,6 @@ http://31.43.191.125:8080/restream/restream/34918
 http://31.43.191.125:8080/restream/restream/34787
 #EXTINF:-1 group-title="HS港澳台直播",HBO
 http://zby.lskk.top/cdnlive.php?mode=play&id=68a273c7a3ba7578a2ca58fe24f3c2be&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-#EXTINF:-1 group-title="HS港澳台直播",云霄综合
-http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-https://7612-5516-affc-d88b.kylintv.tv/live/fjstv_iphone.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-https://10.fast.hidns.vip/163189/hxws/
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-https://cdn16.123.rr.kg/163189/hxws
 #EXTINF:-1 group-title="HS港澳台直播",广东新闻
 http://173.208.234.146/live/gdxw.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",广东珠江
@@ -551,12 +545,118 @@ http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 #EXTINF:-1 group-title="HS港澳台直播",海南自贸
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 group-title="HS港澳台直播",云霄综合
-https://live.zzyxxw.com:2443/live/xwzh.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",广安公共
-http://live1.gatv.com.cn:85/live/GGPD.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",龙华卡通
-http://8.fast.hidns.vip/163189/lhkt
+#EXTINF:-1 group-title="HS港澳台直播",河南乡村
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=9a5007ab8ad36f91dd1c0f33846dcc3f&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",武术
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=afdc339f62d9613812c3741cebcd6c42&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",睛彩中原
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=484a44c26f41341ea573fe350d133e98&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",文物宝库
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=cab9577285359d3543c7169b2d14bf0c&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",民生
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=c3f679d562ba1b7aa9ed411fe5cdf57e&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",国学
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=3ee2de477f41fbd4ad8bd02986ecd63f&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",电视剧
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=67cf8f171a176b17d5c3db3da63c30a8&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",公共
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=3c71b6f9d27e62c0e6113c23968ab8c3&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",都市
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=d7510d1aaef78b7b1a2de80c5be4418b&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",法治
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f479f82e796f2f2348a457e65471186c&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",新闻
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=61af51a22e92804615290f8bc92c61ea&wsTime=1792728222
+#EXTINF:-1 group-title="HS港澳台直播",中国天气
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=20261023060300908d661a3164411c8f82c16e59f940ff&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20261023060300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=171.8.79.254&SecurityKey=20261023060300&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=98f15f71b2f788660ada2751f1bd254e
+#EXTINF:-1 group-title="HS港澳台直播",中学生
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=20261023040257a9377d656a944d4e8809b604e9b62622&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20261023040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=171.8.79.254&SecurityKey=20261023040257&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6126385b16093ff0f17ef87e9c8a3202
+#EXTINF:-1 group-title="HS港澳台直播",CGTN
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=202610230402574d889ed4da0d4c0c93264a73b066a8fb&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20261023040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=171.8.79.254&SecurityKey=20261023040257&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=343371f847398c0daf4b8d73fab28441
+#EXTINF:-1 group-title="HS港澳台直播",CGTNPYCCHNN
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=20261023040256f9f841f614914acfa67536936be33f84&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20261023040256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=171.8.79.254&SecurityKey=20261023040256&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba74d42df8dbdd89a8c4638a00e3d042
+#EXTINF:-1 group-title="HS港澳台直播",CGTNFRANCAIS
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=20261023040256524de0b68ecf4a2381f7be72af52423c&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20261023040256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20261023040256&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4f0a9ebc3cecc08baa7990ab269dc87
+#EXTINF:-1 group-title="HS港澳台直播",CGTN西语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=20261023040256708ebd40c9234f64941769f6ff94ac42&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20261023040256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=171.8.79.254&SecurityKey=20261023040256&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d59b9d869ddcc37ecd1c5390e112f72c
+#EXTINF:-1 group-title="HS港澳台直播",CGTN记录
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=20261023040256068da5b3161445388d9f54a6c1c92666&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20261023040256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=171.8.79.254&SecurityKey=20261023040256&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c46217941eebc23f76cc22848826dd63
+#EXTINF:-1 group-title="HS港澳台直播",CGTN阿拉伯语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=20261023040256354d2b82bfa14e5fb23adcccd1470676&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20261023040256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=171.8.79.254&SecurityKey=20261023040256&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dfacb89463291475c8b7dc462801866a
+#EXTINF:-1 group-title="HS港澳台直播",新片放映厅
+http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=2026102306025997f45695fa48485ea34940c0c0288a01&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261023060259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=171.8.79.254&SecurityKey=20261023060259&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bb6670931da9d214393fa410e5f8d201
+#EXTINF:-1 group-title="HS港澳台直播",IPTV综艺
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20261023060303f170b7bc60724b9186931283ddbe5db5&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261023060303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261023060303&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=56db5f7d1b047b7399254411eab4c391
+#EXTINF:-1 group-title="HS港澳台直播",IPTV中文国际
+http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=20261023060300d76bfa061be74805ad9adf9bf0103735&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20261023060300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20261023060300&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7a2b93b40e41e99516dcc8d36b0c9e3
+#EXTINF:-1 group-title="HS港澳台直播",IPTV体育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=20261023040257e7113704783e455f9d970c61e9fcfe62&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20261023040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20261023040257&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6ccc8eaa4e38962c570c904fb5d0aa43
+#EXTINF:-1 group-title="HS港澳台直播",新动力量创一流
+http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/50/20210706/index.m3u8?msisdn=202610230603034e3c9deb2e4448cca86146a5a30e5090&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20261023060303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=171.8.79.254&SecurityKey=20261023060303&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=13e13adfd7ada4035a66a75207d25903
+#EXTINF:-1 group-title="HS港澳台直播",四海钓鱼
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202610230402574aacff88415840f889d8598a02216017&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20261023040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=171.8.79.254&SecurityKey=20261023040257&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d2f26a5594d7c45d404ed208a825e402
+#EXTINF:-1 group-title="HS港澳台直播",国学
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=f768a42bbc4bf792ed8de7e0c4849003&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",武术世界
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wssj/50/20250915/index.m3u8?msisdn=20261023060255d1a8abcc9ec8420ab45fefb0ce765aab&mdspid=&spid=600697&netType=0&sid=5910022201&pid=2028597139&timestamp=20261023060255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475359&ParentNodeID=-99&assertID=5910022201&client_ip=171.8.79.254&SecurityKey=20261023060255&promotionId=&mvid=5900006724&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fde2fff4dbd4617f539be1ce59c060f3
+#EXTINF:-1 group-title="HS港澳台直播",中华特产
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zhtc/50/20251103/index.m3u8?msisdn=20261023060303c02ab012f5ca481d9ab2a4ec9ef03315&mdspid=&spid=600697&netType=0&sid=5910022295&pid=2028597139&timestamp=20261023060303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986618&ParentNodeID=-99&assertID=5910022295&client_ip=171.8.79.254&SecurityKey=20261023060303&promotionId=&mvid=5900006771&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3522b50a07857781d0bee08b880a43c1
+#EXTINF:-1 group-title="HS港澳台直播",环球旅游
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hqly/50/20250915/index.m3u8?msisdn=20261023060303f8da311ede9d44ea9795934480d39ecf&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20261023060303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20261023060303&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dcb5e7c0b4a9ca99558b2a04b147df91
+#EXTINF:-1 group-title="HS港澳台直播",经典动画大集合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=202610230603032bfd3bd435bd4609a6b77ab767b0de0d&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261023060303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20261023060303&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=46cf99dc6efab712f191bf0b81b0af71
+#EXTINF:-1 group-title="HS港澳台直播",赛事最经典
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=20261023040257534744be7eba40ad9611d77a656e74cb&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20261023040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=171.8.79.254&SecurityKey=20261023040257&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2530061d6dd57189f3fbd7a84c82363f
+#EXTINF:-1 group-title="HS港澳台直播",康旅
+http://hlsztemgsplive.miguvideo.com:8080/migu/lunbo/ouzhoubei/50/20240603/index.m3u8?msisdn=20261023040258df263274a60843729590dde6da61d374&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20261023040258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=171.8.79.254&SecurityKey=20261023040258&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7b693306f88f8adfb5a328055fb22e3f
+#EXTINF:-1 group-title="HS港澳台直播",广东影视
+http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261023060300322349bedef54bf28960f3120f9ba2f0&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261023060300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261023060300&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3bbe32caadc439bf9f4dc1db28399136
+#EXTINF:-1 group-title="HS港澳台直播",海南社会与法
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=202610230602577f5fd337a4034d689ee703aec6992bd8&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261023060257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261023060257&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dcab43d3e79a9ea719792e91f5cb4ef9
+#EXTINF:-1 group-title="HS港澳台直播",河南新闻
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=26c1a5951ef925ffab1e45a42adeb08d&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",河南电视剧
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=4a680cb29610781ab24367c7b01bd832&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",河南公共
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=a36e204dbb671e1131727877db6eab2e&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",河南法治
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=994df1024b98ebd03afaad1439f566b1&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",河南乡村
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4b96fd1ec227e8cd23eebdd2744f97bd&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",江苏国际
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=202610230403021a54604e3cc9452fa25afefd343a039a&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fdba71d2b0ad0697db19231e614aa185
+#EXTINF:-1 group-title="HS港澳台直播",江苏新闻
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=20261023040302d3f141b1c28c40808e3ec5ddc6469e45&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f010faf9d2a7897833139a5c04b17fc4
+#EXTINF:-1 group-title="HS港澳台直播",江苏体育休闲
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=2026102306025611867dd3fce2422aa4856ccd82996557&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261023060256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261023060256&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=74e0f69f00a7dd2690716d437cd8f80a
+#EXTINF:-1 group-title="HS港澳台直播",江苏城市
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=20261023040301087fcca9632946788b3eafb95374fc03&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261023040301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=171.8.79.254&SecurityKey=20261023040301&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=619f46db9687ac7be9bb1e59a06781b3
+#EXTINF:-1 group-title="HS港澳台直播",江苏影视
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20261023040302372167eb335d40dabb34b4972d1b6750&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3f25dc3708db6bcbeab996dcfc3b523d
+#EXTINF:-1 group-title="HS港澳台直播",江苏综艺
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=202610230403020cc892c08da9471286a39d84bc0c1eca&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4cae59e248f2a753f095266ca818dd21
+#EXTINF:-1 group-title="HS港澳台直播",江苏教育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20261023040302497c02b0832442efa681023d8798bd85&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a103335098ace550c3311779851abe5
+#EXTINF:-1 group-title="HS港澳台直播",南京十八生活
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=20261023040301c5087200d481445c9dc32f22306e8b88&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20261023040301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=171.8.79.254&SecurityKey=20261023040301&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cf0ab3af320f2f4f61b01138f46cab30
+#EXTINF:-1 group-title="HS港澳台直播",盐城新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=202610230403020111b102a0e747e785cd3889c77f7d1b&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20261023040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20261023040302&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=81449181106871f05346ab2672b6629f
+#EXTINF:-1 group-title="HS港澳台直播",宜兴新闻
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/50/20250604/index.m3u8?msisdn=20261023040304e8415f318d584867ab3164fb0d46ef93&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20261023040304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20261023040304&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=005f6b2d593aaebe6b61224aebac805e
+#EXTINF:-1 group-title="HS港澳台直播",泰州-1
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=20261023040303c0b3f2e0826e44c389b5bd81449516c9&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20261023040303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20261023040303&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4f573374316275ee5fc5af93635301d3
+#EXTINF:-1 group-title="HS港澳台直播",宿迁新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2026102304030329409bd1df1e4c79bad2c9b1a5c8d609&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20261023040303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20261023040303&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e356672c64a01c3d3fbedb527b95811
+#EXTINF:-1 group-title="HS港澳台直播",连云港新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=2026102304030363c746322e9942459adeb733c1752641&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20261023040303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=171.8.79.254&SecurityKey=20261023040303&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6654fc965322c2e4978feecf3a0c8fc1
+#EXTINF:-1 group-title="HS港澳台直播",镇江新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202610230602574e5aee7fba0344249685d411a0a58537&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20261023060257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=171.8.79.254&SecurityKey=20261023060257&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=887272d8e9972ddf515aa5fd1b96c468
+#EXTINF:-1 group-title="HS港澳台直播",陕西秦腔
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=20261023040304d64a4ea8a49d4dda96981540a9ba7099&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20261023040304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=171.8.79.254&SecurityKey=20261023040304&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=57a8d6cba6fd836442d4a0c595bb8c63
+#EXTINF:-1 group-title="HS港澳台直播",陕西银龄
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=202610230403048f47a3b17e70437d8f40d7917ff7ab00&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20261023040304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=171.8.79.254&SecurityKey=20261023040304&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27ebd767801c31616ffc7b7221a4eb61
+#EXTINF:-1 group-title="HS港澳台直播",经典香港电影
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=202610230601379f4088024a50482595c85747a35e7043&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261023060137&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261023060137&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c40eaeed7c7e4a2ce4ae8c504c6c2f2d
 #EXTINF:-1 group-title="HS港澳台直播",电影_周星驰
 https://lbds.us.ci/11336587
 #EXTINF:-1 group-title="HS港澳台直播",电影_周润发
@@ -597,12 +697,166 @@ https://lbds.us.ci/11342419
 https://lbds.us.ci/11601981
 #EXTINF:-1 group-title="HS港澳台直播",狄仁杰电影
 https://lbds.us.ci/30080229
+#EXTINF:-1 group-title="HS港澳台直播",上视新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20261023040300ab4f240e3749406da9c3c099bdfca08c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261023040300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20261023040300&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ab37d5d3d7b900724195ae11e8bb1209
+#EXTINF:-1 group-title="HS港澳台直播",吉林影视
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jlyspd/50/20261014/index.m3u8?msisdn=202610230602590f162149489a480fa24203af15108df2&mdspid=&spid=600572&netType=0&sid=5910022522&pid=2028597139&timestamp=20261023060259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553184&ParentNodeID=-99&assertID=5910022522&client_ip=171.8.79.254&SecurityKey=20261023060259&promotionId=&mvid=5900006892&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a176ff7aa3f38f6a962a7cdf784f2e37
+#EXTINF:-1 group-title="HS港澳台直播",吉林综艺文化
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jlzywhpd/50/20261014/index.m3u8?msisdn=2026102306025807085aae1629409c9cc0410bb57a4590&mdspid=&spid=600572&netType=0&sid=5910022520&pid=2028597139&timestamp=20261023060258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553163&ParentNodeID=-99&assertID=5910022520&client_ip=171.8.79.254&SecurityKey=20261023060258&promotionId=&mvid=5900006893&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=251a1610c22dbea3de291bdd7c890e89
+#EXTINF:-1 group-title="HS港澳台直播",建党105周年巡礼
+http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/50/20210706/index.m3u8?msisdn=20261023060259721b01184e1149c5b74e3393f3f03ab6&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20261023060259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=171.8.79.254&SecurityKey=20261023060259&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=658ff4503a806272c24287fcd147c77f
+#EXTINF:-1 group-title="HS港澳台直播",欢腾购物
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=6587b52fd012a6aa41b1ecad70bbfa07&wsTime=1792724598
+#EXTINF:-1 group-title="HS港澳台直播",熊猫01
+http://hlsztemgsplive.miguvideo.com:8080/ws_x/2018/xiongmao/HD/1000/index.m3u8?msisdn=2026102306030127709f197e564ea98d7f151c08253e82&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20261023060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=171.8.79.254&SecurityKey=20261023060301&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=558b152c3291b506128e5552674aaa20
+#EXTINF:-1 group-title="HS港澳台直播",熊猫1
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=20261023060301a7c520ac95d94cfda1a3afac9d6f9fb7&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20261023060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20261023060301&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=92a2c8f0e1efa3f63655c6c558564c23
+#EXTINF:-1 group-title="HS港澳台直播",熊猫10
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=202610230603025886becea53e424587539e41b00ed46a&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9d3a5a47d4b8f4c7065cd9b04ad5dcd6
+#EXTINF:-1 group-title="HS港澳台直播",熊猫2
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=20261023060301d7397ae4ac5b4031b7ae6855ef1d6fe0&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20261023060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=171.8.79.254&SecurityKey=20261023060301&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1c40a196e5ca49621cf5cefd2d6d909e
+#EXTINF:-1 group-title="HS港澳台直播",熊猫3
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=20261023060301519b089614db4bf1b1081c16828b5bc1&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20261023060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20261023060301&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9597fbc789314e40e4970d055c814199
+#EXTINF:-1 group-title="HS港澳台直播",熊猫4
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=202610230603012f39aacf95cc4cdfb1cafeb4c91b24bc&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20261023060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20261023060301&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10331038f0084779f6a836d5e5f56c89
+#EXTINF:-1 group-title="HS港澳台直播",熊猫5
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=20261023060302f6103a1d50ce478393c34f05395f213f&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=497bb302df2fa25477e64171856517a9
+#EXTINF:-1 group-title="HS港澳台直播",熊猫6
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=20261023060302edad9342287a46b6ad75922b15adcf55&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a245a829b24829d588dc75e5a509c72b
+#EXTINF:-1 group-title="HS港澳台直播",熊猫7
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=20261023060302c4385774bc3a4f6db4928c78546dff3d&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4a82d91384167a05f9d4d7cb579dd77
+#EXTINF:-1 group-title="HS港澳台直播",熊猫8
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=202610230603026e3a51e64f58490383d048df7a1ee694&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d169777a5abc80cc927620aff18a4469
+#EXTINF:-1 group-title="HS港澳台直播",熊猫9
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=20261023060302e5737094b5cb462f90fceaaf721eb55c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20261023060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20261023060302&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=323fe8634ff741a6240409b6944c60b7
+#EXTINF:-1 group-title="HS港澳台直播",财富天下
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=20261023040305fb710d90b0cd4d6f963153437eabfd8e&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20261023040305&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20261023040305&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b1135819479032a1b98964792fb0de45
+#EXTINF:-1 group-title="HS港澳台直播",CGTN外语纪录
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=2026102308413769eeffa9109a41c88136eccbec95c5ce&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20261023084137&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084137&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0d1279fa6ca650659e9c81344300dd91&ddCalcu=109ded12d29070093f4a463c1a86c590e695
+#EXTINF:-1 group-title="HS港澳台直播",CGTN阿拉伯语
+http://gslbmgsplive.miguvideo.com/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=202610230841386c4f7f9fda6845d8895f3b286e60a32f&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20261023084138&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084138&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=013cc5f5f3a51e4a0dcadba7b1692bcc&ddCalcu=c0c1eb322c99c0651fb57fa3bad5a1ced40a
+#EXTINF:-1 group-title="HS港澳台直播",CGTN西班牙语
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=20261023084138fd8398ed5335469c9d8e5043c36df7e6&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20261023084138&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084138&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=10333dc538a109c88522cdb6b2b804b2&ddCalcu=21b0e432039830bd2cb563b8dac120295c88
+#EXTINF:-1 group-title="HS港澳台直播",CGTN法语
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=20261023084139fcb40ccc8b1e4bfebe4779c84c6ea458&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20261023084139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084139&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bf3db0f3aad24f079573b8b42f8c2c2a&ddCalcu=ab2fec322d9cb080ff234aba8db2347f5097
+#EXTINF:-1 group-title="HS港澳台直播",CGTN俄语
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=202610230841401394b0b1cbce40f6bca3d65b69c3e740&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20261023084140&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084140&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca30a09c90e2a276d241b3d7ae130509&ddCalcu=9c0ae5320093a010e9ac79d03eb21a4227d6
+#EXTINF:-1 group-title="HS港澳台直播",中学生
+http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=202610230841415b6bdb4a0de944009bba08df152e2fb5&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20261023084141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084141&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3575ed64071384377fd38b1d253b0f2a&ddCalcu=a325ef72058be03d5624d017b18338d4f377
+#EXTINF:-1 group-title="HS港澳台直播",CGTN
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=2026102308414288f93c166a11427694e65c0edba911e5&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20261023084142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084142&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3b6d70976bd1e4453951a570abb49c31&ddCalcu=133bec629d9470b0b9a7067b5da11e549435
+#EXTINF:-1 group-title="HS港澳台直播",赛事最经典
+http://gslbmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=202610230841423ee571702ccf48c1bb438819893430f4&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20261023084142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084142&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fd9d33c1d6a29238e36748ff15c20adb&ddCalcu=bfddea920d6230c35c11fdf68a42796233e8
+#EXTINF:-1 group-title="HS港澳台直播",体坛名栏汇
+http://gslbmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=202610230841439aa44c47995e4e3d8b2ea5caa0110ac4&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20261023084143&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084143&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=97a8961759c5a7ee0040d926cddcd965&ddCalcu=5967e9a2d89c90d6d1c765299cd50a470e0e
+#EXTINF:-1 group-title="HS港澳台直播",四海钓鱼
+http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202610230841437317102979214e0eb984fc60ed1a8b26&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20261023084143&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084143&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=98dd7edf31da71562f81e9572ec8bf7e&ddCalcu=e978efd2bd7870ceed2f73519dea1781f526
+#EXTINF:-1 group-title="HS港澳台直播",武术世界
+http://gslbmgsplive.miguvideo.com/migu/kailu/wssj/50/20250915/index.m3u8?msisdn=20261023084145255aecd5ebb4465cadc2396ffdd92edb&mdspid=&spid=600697&netType=0&sid=5910022201&pid=2028597139&timestamp=20261023084145&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475359&ParentNodeID=-99&assertID=5910022201&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084145&promotionId=&mvid=5900006724&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d90ddb8cf01c4870323adab60ce85651&ddCalcu=1d59e6025d88d0ebc80c6fb0a1dca4382730
+#EXTINF:-1 group-title="HS港澳台直播",中国农林卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=202610230841544e3b9cd6713e4fef89cc33cf6f325873&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261023084154&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084154&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f2f5ede1832dd77979d6c2fea3b2a067&ddCalcu=7f62e0f2a562e0bd3ea1e8f322cd6dd79779
+#EXTINF:-1 group-title="HS港澳台直播",上视新闻综合
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20261023084157d7f5d71f58cb4d69a0351ce34234b00e&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261023084157&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084157&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=41a7d9bf917017fdb121fb22ebe97b97&ddCalcu=7491eba27719d0e9bbef2921b7f011271fbd
+#EXTINF:-1 group-title="HS港澳台直播",上视东方影视
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=202610230841581f06afc54b0d478cad57ed00d75e2869&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20261023084158&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084158&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cbb333f14ab7a048261f6bcaa99fb546&ddCalcu=6c4be5b2b37f30939fa1a4cabb67fa106428
+#EXTINF:-1 group-title="HS港澳台直播",江苏城市
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=20261023084201cfd49c61198649d1af0467e75aba1721&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261023084201&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084201&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=148f58ea5900ae98d55e6211a8279f10&ddCalcu=0114ef829f6750288eaa15192060ea5e59d8
+#EXTINF:-1 group-title="HS港澳台直播",江苏国际
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20261023084202127b374375054c29b85a2d1763e93499&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261023084202&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084202&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2ea070888bee03406c61442ae93213d2&ddCalcu=22dee3a21062703098e8a82b4e4e1063c460
+#EXTINF:-1 group-title="HS港澳台直播",江苏教育
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=202610230842026a25f2d07db649e08bccac088236f6a3&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261023084202&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084202&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=58b533b79c02ecb49cfbbbe036bf8169&ddCalcu=9568e1b2858f30b36b3709ecb0b2befccb94
+#EXTINF:-1 group-title="HS港澳台直播",江苏影视
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20261023084203098126494c43434a8107552bbcee3882&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261023084203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084203&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9eabb753bb18bddce59effed8b9eea1c&ddCalcu=c91eeaa2eb6eb097b583dbebf1f8eb9d5dec
+#EXTINF:-1 group-title="HS港澳台直播",江苏综艺
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20261023084204777e59856c74466a939afbc8650eb48d&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261023084204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084204&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7615031050806a64ab61d0b063f84502&ddCalcu=2706e512456800f3316005b008d0166ab6a4
+#EXTINF:-1 group-title="HS港澳台直播",公共新闻
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2026102308420432ec0a1e339841f29b05e446754392f1&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261023084204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084204&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e8fb1338da39ab3e774c4e803da2e936&ddCalcu=6e38e9f2eb6210a3d3380d8ae349ca4b737e
+#EXTINF:-1 group-title="HS港澳台直播",盐城新闻综合
+http://gslbmgsplive.miguvideo.com/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=20261023084205977ea151b5d94129805af7c7028671c3&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20261023084205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084205&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4bc9f4b579cd9506161f90fcc3e17194&ddCalcu=449be1c27991f0e43bc5c7f90c9df9156016
+#EXTINF:-1 group-title="HS港澳台直播",泰州新闻综合
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=20261023084206d7824cce00cb4250aa4b421ad9d39f3d&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20261023084206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084206&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=09f758158a894205aa4cef4387480340&ddCalcu=0049e3f2079850487185384af8e9c442a0a5
+#EXTINF:-1 group-title="HS港澳台直播",连云港新闻综合
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=20261023084207bd47e610a4ad4251a3bd203ebc3657fc&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20261023084207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084207&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8ad67da307be2221b585bc464140344e&ddCalcu=e84ae4d23690704d1a436047cbbe528252b1
+#EXTINF:-1 group-title="HS港澳台直播",宿迁新闻综合
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=20261023084207778c8a79642b455284d0d80be3f7eae5&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20261023084207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084207&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bde28a21ad4515a7d84f533c38983bcd&ddCalcu=dbcdebe23298809a8231ca3d3455f1458ad7
+#EXTINF:-1 group-title="HS港澳台直播",宜兴新闻综合
+http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/50/20250604/index.m3u8?msisdn=2026102308421089c68277e5cd4e1ebe0c442fa1ada137&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20261023084210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084210&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2250483d191280d0f7480e21d653582b&ddCalcu=b222e8525053405863dd1129e10288407df0
+#EXTINF:-1 group-title="HS港澳台直播",陕西银龄
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=20261023084211e1a730c2cfd6453b87cf8adc0bee4f4e&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20261023084211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084211&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=faa5cb6fe1fde3f08e6af0f9d5c7a8a1&ddCalcu=1faae8a2a567c0cb56df9ef10ffdae63ef80
+#EXTINF:-1 group-title="HS港澳台直播",陕西秦腔
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=202610230842129f0feeec282e4e01aac43723a7ab6687&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20261023084212&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084212&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c789670e05d7490dc142ba3e5814034b&ddCalcu=bc47e38209646017805ee035adb7244910cd
+#EXTINF:-1 group-title="HS港澳台直播",财富天下
+http://gslbmgsplive.miguvideo.com/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=20261023084213506d9b9628784b2b9d2a674b5cb075ea&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20261023084213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084213&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=53bf53f2adf5e7a1d32ab3b6c6241d18&ddCalcu=8513edb21f6450236fc26abd3fb5ae273ad1
+#EXTINF:-1 group-title="HS港澳台直播",镇江新闻综合
+http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202610230842142e92b265cd43422bb41bedb0360ccde6&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20261023084214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084214&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=74a0aeb0c47c4a2bb02b6c14f7feddd5&ddCalcu=57d4eda2d09ea0fe7bf04c14c76cb42a02bb
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台新闻
+http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=202610230842144b422372fed74889b89293cbb039a64d&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261023084214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084214&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ed4c6ab74c5d68c6039e1d9599d4c4cd&ddCalcu=decde442cc2460da9b97549cd51de6983c06
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台自贸
+http://gslbmgsplive.miguvideo.com/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=20261023084215d7ff7ba4ad0a43dc8921cb0b47647296&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261023084215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084215&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2a819d3fc44d266b5dba7e362e2b0dfe&ddCalcu=e2faed82012b902de32f6c34e47da2b6d65b
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台社会与法
+http://gslbmgsplive.miguvideo.com/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=20261023084216567d4debcd45458bb36e0f7fe6c3041c&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261023084216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084216&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=91bc7844895cf1bd8db141af239fd3ac&ddCalcu=c9a1e3b2dc2f70983424f8a9154c1fb1db8d
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台文旅
+http://gslbmgsplive.miguvideo.com/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261023084216ce010cf40eab4b728ca3ec005a6a3b93&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261023084216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084216&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bda4d3d19b1665b147fddf69c613f284&ddCalcu=4b8de2a2f423d0136dc1996bf1d6d6f57b41
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台少儿
+http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610230842173720b91d27c24813ac64dc6d61ac2aba&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261023084217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084217&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3f420759637035c34812213ac17fcebd&ddCalcu=d3bfee42c22f007715c9a633172023158c43
+#EXTINF:-1 group-title="HS港澳台直播",吉林综艺文化
+http://gslbmgsplive.miguvideo.com/migu/kailu/jlzywhpd/50/20261014/index.m3u8?msisdn=20261023084219e1ddf8a6d13f4ae8b26ae3e0c4a17546&mdspid=&spid=600572&netType=0&sid=5910022520&pid=2028597139&timestamp=20261023084219&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553163&ParentNodeID=-99&assertID=5910022520&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084219&promotionId=&mvid=5900006893&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0852477b11708b39fbc567c1811ba6b0&ddCalcu=00b8e652a28b4017178b11c1776058cbb3f9
+#EXTINF:-1 group-title="HS港澳台直播",吉林影视
+http://gslbmgsplive.miguvideo.com/migu/kailu/jlyspd/50/20261014/index.m3u8?msisdn=202610230842206e494809623541a3bf5a6dd7241b8059&mdspid=&spid=600572&netType=0&sid=5910022522&pid=2028597139&timestamp=20261023084220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553184&ParentNodeID=-99&assertID=5910022522&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084220&promotionId=&mvid=5900006892&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=64964bbd59dc0507bd9e50a73faf3cab&ddCalcu=b6a4ec92368f40abfb3d75a90d5ce095d0b7
+#EXTINF:-1 group-title="HS港澳台直播",建党105周年巡礼
+http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002413/50/20210706/index.m3u8?msisdn=2026102308422174cf3343bd684a779726083f8cec47a1&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20261023084221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084221&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9af85a74d2bcc9e4c600b96eae3e81e5&ddCalcu=59eae1f2883e503ae7a4ed629bbc0c096ec4
+#EXTINF:-1 group-title="HS港澳台直播",经典香港电影
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026102308422136540da36d1b47aabe41af5727f1cdc9&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261023084221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084221&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6f4b60024eb6ba09da1b096f78c6937e&ddCalcu=e67fe3429b5660c08072f46e9b06bb1aa0d9
+#EXTINF:-1 group-title="HS港澳台直播",新片放映厅
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-75/index.m3u8?msisdn=202610230842220eabbe954854404d99718b55cd98abd0&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261023084222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084222&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=73cf13d70b0a82c3f2ff0ca40f3c4467&ddCalcu=7763e4c24f9c1033fd0740abc00af8f22cf3
+#EXTINF:-1 group-title="HS港澳台直播",和美乡途轮播
+http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=20261023084223ebbdca75da484014892e7eb78386eefe&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20261023084223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084223&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c693ad087b35fd02176d9232d4d681fa&ddCalcu=acf6e1928336a0dd40d8273b2395df6d7012
+#EXTINF:-1 group-title="HS港澳台直播",南方影视
+http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261023084224999cdec709d24f4b9c71bea665b355e8&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261023084224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084224&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=72893638a3c184ad1d5c6f05b528b7b3&ddCalcu=37b2e782b948302653b85a03fc61c854da1d
+#EXTINF:-1 group-title="HS港澳台直播",中国天气
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=20261023084224d5ac65fa457a47debd2b1a4641462050&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20261023084224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084224&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c2db3385f0d201c8798e3fdde2db5561&ddCalcu=1c62e5d25b9b30d328e5dfd0fd32e0819c78
+#EXTINF:-1 group-title="HS港澳台直播",熊猫01
+http://gslbmgsplive.miguvideo.com/ws_x/2018/xiongmao/HD/1000/index.m3u8?msisdn=2026102308422654afc8c1171b432dbac569869c4fe984&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20261023084226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084226&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e6cfa1d691c8c2de4470cd530e57ae5b&ddCalcu=be56eec2af97a051ed063951dcc80c724d4e
+#EXTINF:-1 group-title="HS港澳台直播",熊猫1
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=20261023084227ca03bc666ede431f849d2a8cdf858533&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20261023084227&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084227&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=52dbb2fbf04da08a291e9e0edaf8c789&ddCalcu=9582e7d2cb88b0f2afdbef00e49dea10982a
+#EXTINF:-1 group-title="HS港澳台直播",熊猫2
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=20261023084228d109dd5aedfc4f548159073467c137b2&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20261023084228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084228&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f6eb0cb53b1e68fa836ba3fe3a47bc5f&ddCalcu=ff56ece2bb87004cab35e3fb31aeb6683f8a
+#EXTINF:-1 group-title="HS港澳台直播",熊猫3
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=20261023084228a11c7ab233894238a1958ec6b2681c40&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20261023084228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084228&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8110239f0b86a4e52cae79c37510142e&ddCalcu=e821e41210802013597f30cb9876eaa4ce25
+#EXTINF:-1 group-title="HS港澳台直播",熊猫4
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=20261023084229276ddb60579a4b9d8d637c4babb046e1&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20261023084229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084229&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=591cd820936e21a8725f9bf1a06120ef&ddCalcu=f5e9e0122c81d06802a019f3b69ef2512a78
+#EXTINF:-1 group-title="HS港澳台直播",熊猫5
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=20261023084230fc38c889a1324f1db7c8d904e259f438&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20261023084230&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084230&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b69f15db2c7f344c67063ae05d876ba6&ddCalcu=6ba6eb926f871085dd5b02eca73f6304746c
+#EXTINF:-1 group-title="HS港澳台直播",熊猫6
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=202610230842301afbd69de407419097f3dfcddc860c8d&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20261023084230&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084230&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=55573a9e17edd8c5136ce97a23ca79ab&ddCalcu=b5a5e952778a30ca392ea1779eedcd683c15
+#EXTINF:-1 group-title="HS港澳台直播",熊猫7
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=202610230842319cb0429243284697b28d53b155f29096&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20261023084231&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084231&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ccc4349de8e068285e144c00d1ee9f94&ddCalcu=4c9cefc2949e30e419dd0e08ce404618e258
+#EXTINF:-1 group-title="HS港澳台直播",熊猫8
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=202610230842311e4c393a66a54bdfa706599621474dc3&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20261023084231&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084231&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a29709c6a4229681f803db08b7536927&ddCalcu=7a22e992679300597cb68a04b2d2390688f1
+#EXTINF:-1 group-title="HS港澳台直播",熊猫9
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=20261023084232c6b195d97637476bb719d6b1b06f5b54&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20261023084232&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084232&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=80c12c2e672d1c6366fcf1c5b157e0b3&ddCalcu=38b0e0c2e197205c12be56c712fdc1fc6663
+#EXTINF:-1 group-title="HS港澳台直播",熊猫10
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=2026102308423387f03c9760684757b1f0ecb92024a635&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20261023084233&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084233&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=065935dec84d27fc58da074ee01b6635&ddCalcu=5036e652699b30150deeec48740da2d78f5c
+#EXTINF:-1 group-title="HS港澳台直播",最强综艺趴
+http://gslbmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20261023084233358ab08368094f83a9f89d4a6a890fac&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261023084233&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084233&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=37e3c5a9050acaf1d26635b6792686cf&ddCalcu=f3c7e6e28396c0259a7960b5503a6c6a2fd1
+#EXTINF:-1 group-title="HS港澳台直播",经典动画大集合
+http://gslbmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20261023084234fd36ffce8b764e9089662a5657ec09c0&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261023084234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084234&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f1acb82935b0d95794a7b405e71c175a&ddCalcu=af51e7a21c9cb01872e953054bb07da94597
+#EXTINF:-1 group-title="HS港澳台直播",新动力量创一流
+http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002409/50/20210706/index.m3u8?msisdn=20261023084234387ec58d235c4064aee22d2a78757f31&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20261023084234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084234&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=07d24a8c81edf56ca16eb178eb97881b&ddCalcu=b017e8d28237409ab8ec88711ebdef6516ac
+#EXTINF:-1 group-title="HS港澳台直播",中华特产
+http://gslbmgsplive.miguvideo.com/migu/kailu/zhtc/50/20251103/index.m3u8?msisdn=202610230842340c314e8fbd024fd39f542e8171e741ef&mdspid=&spid=600697&netType=0&sid=5910022295&pid=2028597139&timestamp=20261023084234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986618&ParentNodeID=-99&assertID=5910022295&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084234&promotionId=&mvid=5900006771&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=482550dd342f1afb2903158884cc7b34&ddCalcu=4438eb22759c50c04d8d8384521f310a9f2b
+#EXTINF:-1 group-title="HS港澳台直播",环球旅游
+http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/50/20250915/index.m3u8?msisdn=20261023084235c9735bfa6e684533830227403c283b8f&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20261023084235&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=2409:8a00:6030:db21:f605:b5f3:9452:8170&SecurityKey=20261023084235&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=aadc7297558454b460717729c49b05b4&ddCalcu=4abae5d20c8b709249c79525787415740b64
 #EXTINF:-1 group-title="HS港澳台直播",宝盒没宝
 https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+#EXTINF:-1 group-title="HS港澳台直播",CCTV4中文国际
+http://207.56.13.146:81/cdnlive/cctv4.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",卫生健康
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
 #EXTINF:-1 group-title="HS港澳台直播",CETV2
 http://112.26.106.165:7788/923287211
+#EXTINF:-1 group-title="HS港澳台直播",CETV2
+http://47.103.64.145:8014/923287211
 #EXTINF:-1 group-title="HS港澳台直播",CETV2
 http://139.224.44.53:1234/923287211
 #EXTINF:-1 group-title="HS港澳台直播",CETV2
@@ -620,13 +874,13 @@ http://103.236.77.86:29824/923287211
 #EXTINF:-1 group-title="HS港澳台直播",CETV2
 http://58.210.97.102:1234/923287211
 #EXTINF:-1 group-title="HS港澳台直播",CETV2
-http://47.103.64.145:8014/923287211
-#EXTINF:-1 group-title="HS港澳台直播",CETV2
 http://mg.cttv.vip/923287211
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
 http://139.224.44.53:1234/923287339
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
 http://117.146.74.202:1234/923287339
+#EXTINF:-1 group-title="HS港澳台直播",CETV4
+http://106.12.29.154:5050/923287339
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
 http://222.213.105.65:7788/923287339
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
@@ -640,17 +894,9 @@ http://47.103.64.145:8014/923287339
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
 http://103.236.77.86:29824/923287339
 #EXTINF:-1 group-title="HS港澳台直播",CETV4
-http://mg.cttv.vip/923287339
-#EXTINF:-1 group-title="HS港澳台直播",CETV4
-http://106.12.29.154:5050/923287339
-#EXTINF:-1 group-title="HS港澳台直播",CETV4
 http://58.210.97.102:1234/923287339
-#EXTINF:-1 group-title="HS港澳台直播",山东卫视
-http://204.12.221.218:8181/3m1080p/sdws.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://113.98.11.46:3000/849119120
-#EXTINF:-1 group-title="HS港澳台直播",广安公共
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",CETV4
+http://mg.cttv.vip/923287339
 #EXTINF:-1 group-title="HS港澳台直播",快乐购
 http://43.248.116.62:1100/difang/hunan/hunan.php?id=klg
 #EXTINF:-1 group-title="HS港澳台直播",日喀则汉语
@@ -663,8 +909,14 @@ http://43.248.116.62:1100/difang/hunan/shaoyang.php?id=syxwzh
 http://mg.cttv.vip/625703337
 #EXTINF:-1 group-title="HS港澳台直播",经典香港电影
 http://58.210.97.102:1234/625703337
+#EXTINF:-1 group-title="HS港澳台直播",霹雳舞大叔
+https://www.goodiptv.club/douyu/1528853
 #EXTINF:-1 group-title="HS港澳台直播",GolfChannel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",屿风体育
+https://www.goodiptv.club/douyu/10329889
+#EXTINF:-1 group-title="HS港澳台直播",电影_发哥
+http://8.155.43.98:35455/huya/11342387
 #EXTINF:-1 group-title="HS港澳台直播",AntikInfoTV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",AratuOn
@@ -673,6 +925,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",DeUltimoMinutoTV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",DunyaNews
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="HS港澳台直播",EuronewsEnglish
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",FREEDOM
@@ -689,8 +943,16 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",WELT
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",「SG」亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 group-title="HS港澳台直播",KiKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",世界纪录大全
+https://www.goodiptv.club/douyu/9406359
+#EXTINF:-1 group-title="HS港澳台直播",纪录片之家字幕组
+https://www.goodiptv.club/douyu/8834003
+#EXTINF:-1 group-title="HS港澳台直播",屠洪刚精选歌曲
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597445416923583_hlsb.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",GigantFM
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",HighVisionTV[Not24/7]
@@ -701,30 +963,30 @@ https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",StingrayiConcerts
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",热星音乐菌
+https://www.goodiptv.club/douyu/8405922
+#EXTINF:-1 group-title="HS港澳台直播",纸鸢SomniumV
+https://www.goodiptv.club/douyu/9506782
+#EXTINF:-1 group-title="HS港澳台直播",音乐台长
+https://www.goodiptv.club/douyu/9629943
 #EXTINF:-1 group-title="HS港澳台直播",生活
 https://ysp.lml1971.ccwu.cc/sd_shpd/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://47.100.80.251:50001/624878970
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://47.100.80.251:50001/639731747
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://47.100.80.251:50001/849119120
 #EXTINF:-1 group-title="HS港澳台直播",老故事
 http://47.100.80.251:50001/884121956
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://139.224.44.53:1234/624878970
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://139.224.44.53:1234/639731747
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://139.224.44.53:1234/849119120
 #EXTINF:-1 group-title="HS港澳台直播",老故事
 http://139.224.44.53:1234/884121956
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://117.146.74.202:1234/624878970
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://117.146.74.202:1234/639731747
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://117.146.74.202:1234/849119120
 #EXTINF:-1 group-title="HS港澳台直播",老故事
 http://117.146.74.202:1234/884121956
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
@@ -732,9 +994,9 @@ http://112.26.106.165:7788/624878970
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://222.213.105.65:7788/624878970
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
-http://58.210.97.102:1234/624878970
-#EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://106.12.29.154:5050/624878970
+#EXTINF:-1 group-title="HS港澳台直播",发现之旅
+http://58.210.97.102:1234/624878970
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
 http://47.103.64.145:8014/624878970
 #EXTINF:-1 group-title="HS港澳台直播",发现之旅
@@ -744,25 +1006,13 @@ http://47.103.64.145:8014/639731747
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://112.26.106.165:7788/639731747
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
+http://103.236.77.86:29824/639731747
+#EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://106.12.29.154:5050/639731747
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://58.210.97.102:1234/639731747
 #EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
 http://222.213.105.65:7788/639731747
-#EXTINF:-1 group-title="HS港澳台直播",徐州新闻综合
-http://103.236.77.86:29824/639731747
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://112.26.106.165:7788/849119120
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://106.12.29.154:5050/849119120
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://58.210.97.102:1234/849119120
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://47.103.64.145:8014/849119120
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://222.213.105.65:7788/849119120
-#EXTINF:-1 group-title="HS港澳台直播",海峡卫视
-http://103.236.77.86:29824/849119120
 #EXTINF:-1 group-title="HS港澳台直播",老故事
 http://112.26.106.165:7788/884121956
 #EXTINF:-1 group-title="HS港澳台直播",老故事
@@ -817,68 +1067,240 @@ http://113.98.11.46:3000/624878970
 http://113.98.11.46:3000/639731747
 #EXTINF:-1 group-title="HS港澳台直播",老故事
 http://113.98.11.46:3000/884121956
+#EXTINF:-1 group-title="HS港澳台直播",北京影帝
+https://www.goodiptv.club/douyu/214827
+#EXTINF:-1 group-title="HS港澳台直播",北京影帝的分身
+https://www.goodiptv.club/douyu/9805480
+#EXTINF:-1 group-title="HS港澳台直播",黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="HS港澳台直播",大庆在农村
+https://www.goodiptv.club/douyu/9477316
+#EXTINF:-1 group-title="HS港澳台直播",KBShinya
+https://www.goodiptv.club/douyu/8970851
+#EXTINF:-1 group-title="HS港澳台直播",0小行家0
+https://www.goodiptv.club/douyu/9280356
+#EXTINF:-1 group-title="HS港澳台直播",11No巴蒂11
+https://www.goodiptv.club/douyu/9455937
+#EXTINF:-1 group-title="HS港澳台直播",17号说动漫
+https://www.goodiptv.club/douyu/9822277
+#EXTINF:-1 group-title="HS港澳台直播",1900影剧室
+https://www.goodiptv.club/douyu/7796193
+#EXTINF:-1 group-title="HS港澳台直播",28岁电影
+https://www.goodiptv.club/douyu/8884164
+#EXTINF:-1 group-title="HS港澳台直播",3030相声小品
+https://www.goodiptv.club/douyu/9286868
 #EXTINF:-1 group-title="HS港澳台直播",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",3秒爱上学习V
+https://www.goodiptv.club/douyu/9541736
+#EXTINF:-1 group-title="HS港澳台直播",3说电影
+https://www.goodiptv.club/douyu/9643264
+#EXTINF:-1 group-title="HS港澳台直播",5毒士
+https://www.goodiptv.club/douyu/9406600
+#EXTINF:-1 group-title="HS港澳台直播",77说电影
+https://www.goodiptv.club/douyu/9444320
+#EXTINF:-1 group-title="HS港澳台直播",98博博
+https://www.goodiptv.club/douyu/12824429
+#EXTINF:-1 group-title="HS港澳台直播",9iota
+https://www.goodiptv.club/douyu/8881729
+#EXTINF:-1 group-title="HS港澳台直播",a5dmin
+https://www.goodiptv.club/douyu/1102973
+#EXTINF:-1 group-title="HS港澳台直播",Acer丶宏正
+https://www.goodiptv.club/douyu/10670244
 #EXTINF:-1 group-title="HS港澳台直播",AdessoTV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",AK萌虎
+https://www.goodiptv.club/douyu/4049310
+#EXTINF:-1 group-title="HS港澳台直播",Alan不再堕落
+https://www.goodiptv.club/douyu/1195451
 #EXTINF:-1 group-title="HS港澳台直播",AMGATV[Not24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Angela小兔
+https://www.goodiptv.club/douyu/9617766
 #EXTINF:-1 group-title="HS港澳台直播",arte(Germany)
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",a萌小翘臀
+https://www.goodiptv.club/douyu/7552568
+#EXTINF:-1 group-title="HS港澳台直播",baby丶贝贝
+https://www.goodiptv.club/douyu/431460
 #EXTINF:-1 group-title="HS港澳台直播",BarrandovKrimi
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",BetterMan北北
+https://www.goodiptv.club/douyu/8507023
+#EXTINF:-1 group-title="HS港澳台直播",Biu餐厅主管
+https://www.goodiptv.club/douyu/7921708
 #EXTINF:-1 group-title="HS港澳台直播",BoasNovas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",BuriedAlien的号
+https://www.goodiptv.club/douyu/9440728
+#EXTINF:-1 group-title="HS港澳台直播",Cloud猪
+https://www.goodiptv.club/douyu/527502
+#EXTINF:-1 group-title="HS港澳台直播",CmoStar
+https://www.goodiptv.club/douyu/10282256
 #EXTINF:-1 group-title="HS港澳台直播",CostaNoroesteTV[Not24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Co视文化
+https://www.goodiptv.club/douyu/1060418
 #EXTINF:-1 group-title="HS港澳台直播",DaNangTV1[Not24/7]
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Devil青酱
+https://www.goodiptv.club/douyu/9510544
+#EXTINF:-1 group-title="HS港澳台直播",dlwIrmaiu
+https://www.goodiptv.club/douyu/11418803
+#EXTINF:-1 group-title="HS港澳台直播",DS女老诗
+https://www.goodiptv.club/douyu/563536
+#EXTINF:-1 group-title="HS港澳台直播",dw151295068
+https://www.goodiptv.club/douyu/12655359
+#EXTINF:-1 group-title="HS港澳台直播",dy荒野建造
+https://www.goodiptv.club/douyu/10039437
 #EXTINF:-1 group-title="HS港澳台直播",EntunoTV[Not24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",epcdiy
+https://www.goodiptv.club/douyu/8759268
 #EXTINF:-1 group-title="HS港澳台直播",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",FailarmyInternational
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="HS港澳台直播",fans圈娱乐
+https://www.goodiptv.club/douyu/9630581
+#EXTINF:-1 group-title="HS港澳台直播",Fatal飞雪
+https://www.goodiptv.club/douyu/8813596
+#EXTINF:-1 group-title="HS港澳台直播",FGO丶Master1
+https://www.goodiptv.club/douyu/9477851
 #EXTINF:-1 group-title="HS港澳台直播",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",GigantFM
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="HS港澳台直播",gslaini
+https://www.goodiptv.club/douyu/6997954
+#EXTINF:-1 group-title="HS港澳台直播",HappyDays(Sweden)DK
+https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Hi欣欣
+https://www.goodiptv.club/douyu/11996166
 #EXTINF:-1 group-title="HS港澳台直播",hr-fernsehen
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Ido漫说
+https://www.goodiptv.club/douyu/9456379
 #EXTINF:-1 group-title="HS港澳台直播",ImperialTelevision
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",JG影视解说
+https://www.goodiptv.club/douyu/9391277
+#EXTINF:-1 group-title="HS港澳台直播",JhZj丶天明
+https://www.goodiptv.club/douyu/1006179
+#EXTINF:-1 group-title="HS港澳台直播",JustXiaIt嘻咦啊看
+https://www.goodiptv.club/douyu/2660125
 #EXTINF:-1 group-title="HS港澳台直播",kabeleins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",kk6506
+https://www.goodiptv.club/douyu/4579455
+#EXTINF:-1 group-title="HS港澳台直播",KUMA轻松熊博士
+https://www.goodiptv.club/douyu/2282604
+#EXTINF:-1 group-title="HS港澳台直播",KyoKyo不是QQ
+https://www.goodiptv.club/douyu/4732337
+#EXTINF:-1 group-title="HS港澳台直播",LCPD拉登
+https://www.goodiptv.club/douyu/9503015
+#EXTINF:-1 group-title="HS港澳台直播",ljgdy
+https://www.goodiptv.club/douyu/1600769
+#EXTINF:-1 group-title="HS港澳台直播",LOUIS樱
+https://www.goodiptv.club/douyu/9235284
+#EXTINF:-1 group-title="HS港澳台直播",low君热剧
+https://www.goodiptv.club/douyu/8461020
+#EXTINF:-1 group-title="HS港澳台直播",LR1245
+https://www.goodiptv.club/douyu/12534632
+#EXTINF:-1 group-title="HS港澳台直播",mad叶月Mashiro灬
+https://www.goodiptv.club/douyu/9192932
 #EXTINF:-1 group-title="HS港澳台直播",MDRFernsehenThuringen
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Melo的健身课堂
+https://www.goodiptv.club/douyu/9306609
+#EXTINF:-1 group-title="HS港澳台直播",Michael说大片
+https://www.goodiptv.club/douyu/8841881
+#EXTINF:-1 group-title="HS港澳台直播",MJ小林大人嗷
+https://www.goodiptv.club/douyu/9204381
+#EXTINF:-1 group-title="HS港澳台直播",MK青凌
+https://www.goodiptv.club/douyu/9488836
 #EXTINF:-1 group-title="HS港澳台直播",MontecristiDigital8[Geo-blocked]
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",MordonFreeman是谁
+https://www.goodiptv.club/douyu/9524579
+#EXTINF:-1 group-title="HS港澳台直播",mzx阿哲
+https://www.goodiptv.club/douyu/9483965
 #EXTINF:-1 group-title="HS港澳台直播",n-tv
 https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Nino学长
+https://www.goodiptv.club/douyu/9525473
 #EXTINF:-1 group-title="HS港澳台直播",Nitro
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",OE档案
+https://www.goodiptv.club/douyu/6725858
+#EXTINF:-1 group-title="HS港澳台直播",OneGuy丶
+https://www.goodiptv.club/douyu/9734098
+#EXTINF:-1 group-title="HS港澳台直播",OooOlivia奥莉蕉
+https://www.goodiptv.club/douyu/9678862
+#EXTINF:-1 group-title="HS港澳台直播",Poison丶冰冰
+https://www.goodiptv.club/douyu/74374
+#EXTINF:-1 group-title="HS港澳台直播",PP看动漫
+https://www.goodiptv.club/douyu/9837291
 #EXTINF:-1 group-title="HS港澳台直播",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Psyman塞门
+https://www.goodiptv.club/douyu/9753585
+#EXTINF:-1 group-title="HS港澳台直播",py86阿
+https://www.goodiptv.club/douyu/8849954
+#EXTINF:-1 group-title="HS港澳台直播",QLIMES
+https://www.goodiptv.club/douyu/1039732
+#EXTINF:-1 group-title="HS港澳台直播",Rabbit每日爆料
+https://www.goodiptv.club/douyu/9685652
 #EXTINF:-1 group-title="HS港澳台直播",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",RedeTV!Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",Red袖袖
+https://www.goodiptv.club/douyu/9645396
 #EXTINF:-1 group-title="HS港澳台直播",RN7
 https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",RNDxc
+https://www.goodiptv.club/douyu/4585643
 #EXTINF:-1 group-title="HS港澳台直播",RTL(Germany)
 https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",RTLGold(Hungary)
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",RTLZwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",SAO东西又再说SAO话
+https://www.goodiptv.club/douyu/8833450
+#EXTINF:-1 group-title="HS港澳台直播",SavaneTV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",SBTInterior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",SBTNacional
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",sekai的光子
+https://www.goodiptv.club/douyu/9564766
 #EXTINF:-1 group-title="HS港澳台直播",SenalDigitalTV[Not24/7]
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",SH11N
+https://www.goodiptv.club/douyu/9650451
+#EXTINF:-1 group-title="HS港澳台直播",shhher
+https://www.goodiptv.club/douyu/8733680
 #EXTINF:-1 group-title="HS港澳台直播",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",SKYE魏
+https://www.goodiptv.club/douyu/9460834
+#EXTINF:-1 group-title="HS港澳台直播",Starshine刹那
+https://www.goodiptv.club/douyu/9191006
+#EXTINF:-1 group-title="HS港澳台直播",Svip丶YoYo
+https://www.goodiptv.club/douyu/3472959
+#EXTINF:-1 group-title="HS港澳台直播",sweet夏有甜
+https://www.goodiptv.club/douyu/4808115
 #EXTINF:-1 group-title="HS港澳台直播",SWRFernsehen
 https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",TFBOYS饭团
+https://www.goodiptv.club/douyu/9565765
+#EXTINF:-1 group-title="HS港澳台直播",TSSS映画
+https://www.goodiptv.club/douyu/9749339
+#EXTINF:-1 group-title="HS港澳台直播",TUOK肖恩
+https://www.goodiptv.club/douyu/9392433
 #EXTINF:-1 group-title="HS港澳台直播",TVACritica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",TVNitricka
@@ -891,18 +1313,1644 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",TVPInfo
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",UVATV[Not24/7]
-https://www.uvatvhd.com/hls.php?file=live.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",UP主DJC
+https://www.goodiptv.club/douyu/9429545
 #EXTINF:-1 group-title="HS港澳台直播",VisionNDV[Not24/7]
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",WANJINNY
+https://www.goodiptv.club/douyu/9567755
+#EXTINF:-1 group-title="HS港澳台直播",W总动员
+https://www.goodiptv.club/douyu/9480767
+#EXTINF:-1 group-title="HS港澳台直播",XCin888
+https://www.goodiptv.club/douyu/3617935
+#EXTINF:-1 group-title="HS港澳台直播",xiaoxiao1004
+https://www.goodiptv.club/douyu/2569874
+#EXTINF:-1 group-title="HS港澳台直播",yaoyao说
+https://www.goodiptv.club/douyu/884073
+#EXTINF:-1 group-title="HS港澳台直播",YIKa777
+https://www.goodiptv.club/douyu/8868213
 #EXTINF:-1 group-title="HS港澳台直播",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",一个机智张张
+https://www.goodiptv.club/douyu/9653063
+#EXTINF:-1 group-title="HS港澳台直播",一只魔玩
+https://www.goodiptv.club/douyu/9606281
+#EXTINF:-1 group-title="HS港澳台直播",一把钢刀镇斗虞
+https://www.goodiptv.club/douyu/7356023
+#EXTINF:-1 group-title="HS港澳台直播",一束光开始
+https://www.goodiptv.club/douyu/8662684
+#EXTINF:-1 group-title="HS港澳台直播",一条闲木鱼
+https://www.goodiptv.club/douyu/10102281
+#EXTINF:-1 group-title="HS港澳台直播",一样二职
+https://www.goodiptv.club/douyu/11827530
+#EXTINF:-1 group-title="HS港澳台直播",一目十影
+https://www.goodiptv.club/douyu/3643605
+#EXTINF:-1 group-title="HS港澳台直播",一颗咕咕星
+https://www.goodiptv.club/douyu/9388557
+#EXTINF:-1 group-title="HS港澳台直播",一颗糖糖canddy
+https://www.goodiptv.club/douyu/9192852
+#EXTINF:-1 group-title="HS港澳台直播",万事通熊猫
+https://www.goodiptv.club/douyu/7812810
+#EXTINF:-1 group-title="HS港澳台直播",万合鲜肉老师
+https://www.goodiptv.club/douyu/9815091
+#EXTINF:-1 group-title="HS港澳台直播",三个老爸实验室
+https://www.goodiptv.club/douyu/9090487
+#EXTINF:-1 group-title="HS港澳台直播",三代鹿人v
+https://www.goodiptv.club/douyu/9629717
+#EXTINF:-1 group-title="HS港澳台直播",三国演义-top1
+https://www.goodiptv.club/douyu/12886210
+#EXTINF:-1 group-title="HS港澳台直播",三斤呦
+https://www.goodiptv.club/douyu/9047933
+#EXTINF:-1 group-title="HS港澳台直播",三新动漫
+https://www.goodiptv.club/douyu/9548279
+#EXTINF:-1 group-title="HS港澳台直播",上来先丢大v
+https://www.goodiptv.club/douyu/9566154
+#EXTINF:-1 group-title="HS港澳台直播",不二真探
+https://www.goodiptv.club/douyu/10319545
+#EXTINF:-1 group-title="HS港澳台直播",不会骑马的健身少年
+https://www.goodiptv.club/douyu/8862198
+#EXTINF:-1 group-title="HS港澳台直播",不思异剧场
+https://www.goodiptv.club/douyu/9297412
+#EXTINF:-1 group-title="HS港澳台直播",世界未解之谜M
+https://www.goodiptv.club/douyu/9369468
+#EXTINF:-1 group-title="HS港澳台直播",丛林工程师
+https://www.goodiptv.club/douyu/9804149
+#EXTINF:-1 group-title="HS港澳台直播",中二大帝妮可姬
+https://www.goodiptv.club/douyu/9612400
+#EXTINF:-1 group-title="HS港澳台直播",中二的枫哲酱
+https://www.goodiptv.club/douyu/9541849
+#EXTINF:-1 group-title="HS港澳台直播",丶最紧要好玩
+https://www.goodiptv.club/douyu/6361974
+#EXTINF:-1 group-title="HS港澳台直播",丶清风浊酒丶
+https://www.goodiptv.club/douyu/5918434
+#EXTINF:-1 group-title="HS港澳台直播",主播拍个肚皮
+https://www.goodiptv.club/douyu/9387499
+#EXTINF:-1 group-title="HS港澳台直播",丽姐说电影
+https://www.goodiptv.club/douyu/9437283
+#EXTINF:-1 group-title="HS港澳台直播",久远丶酱
+https://www.goodiptv.club/douyu/9046649
+#EXTINF:-1 group-title="HS港澳台直播",乌拉吖有剧
+https://www.goodiptv.club/douyu/10075154
+#EXTINF:-1 group-title="HS港澳台直播",乐儿丶Ler
+https://www.goodiptv.club/douyu/8221699
+#EXTINF:-1 group-title="HS港澳台直播",乐队
+https://www.goodiptv.club/douyu/9572351
+#EXTINF:-1 group-title="HS港澳台直播",九仙人儿
+https://www.goodiptv.club/douyu/8669085
+#EXTINF:-1 group-title="HS港澳台直播",九冢嵬
+https://www.goodiptv.club/douyu/9393501
+#EXTINF:-1 group-title="HS港澳台直播",九叔说电影v
+https://www.goodiptv.club/douyu/9348282
+#EXTINF:-1 group-title="HS港澳台直播",乡村水龙
+https://www.goodiptv.club/douyu/9486905
+#EXTINF:-1 group-title="HS港澳台直播",书岳钓鱼
+https://www.goodiptv.club/douyu/10100206
+#EXTINF:-1 group-title="HS港澳台直播",二哈讲电影
+https://www.goodiptv.club/douyu/8778280
+#EXTINF:-1 group-title="HS港澳台直播",二次元fans鹿鹿
+https://www.goodiptv.club/douyu/8661526
+#EXTINF:-1 group-title="HS港澳台直播",五分钟电影汇
+https://www.goodiptv.club/douyu/8443438
+#EXTINF:-1 group-title="HS港澳台直播",享看电影
+https://www.goodiptv.club/douyu/8974130
+#EXTINF:-1 group-title="HS港澳台直播",京城笑工坊
+https://www.goodiptv.club/douyu/10329324
+#EXTINF:-1 group-title="HS港澳台直播",亮亮也是酿酿
+https://www.goodiptv.club/douyu/4340136
+#EXTINF:-1 group-title="HS港澳台直播",人生回答机本机
+https://www.goodiptv.club/douyu/9409722
+#EXTINF:-1 group-title="HS港澳台直播",人类早期驯服
+https://www.goodiptv.club/douyu/8892864
+#EXTINF:-1 group-title="HS港澳台直播",仓鼠大逃亡
+https://www.goodiptv.club/douyu/10354920
+#EXTINF:-1 group-title="HS港澳台直播",代娱说美剧
+https://www.goodiptv.club/douyu/9123570
+#EXTINF:-1 group-title="HS港澳台直播",伊太刀刀
+https://www.goodiptv.club/douyu/747764
+#EXTINF:-1 group-title="HS港澳台直播",伊西wind
+https://www.goodiptv.club/douyu/12641373
+#EXTINF:-1 group-title="HS港澳台直播",伦帝电影说
+https://www.goodiptv.club/douyu/9368091
+#EXTINF:-1 group-title="HS港澳台直播",伯乐说电影V
+https://www.goodiptv.club/douyu/9386057
+#EXTINF:-1 group-title="HS港澳台直播",佛曰影视
+https://www.goodiptv.club/douyu/9671758
+#EXTINF:-1 group-title="HS港澳台直播",你是我的真爱吗m
+https://www.goodiptv.club/douyu/4184217
+#EXTINF:-1 group-title="HS港澳台直播",你的瑜伽女孩
+https://www.goodiptv.club/douyu/10205199
+#EXTINF:-1 group-title="HS港澳台直播",侃片大师兄
+https://www.goodiptv.club/douyu/9338839
+#EXTINF:-1 group-title="HS港澳台直播",侃片黑菠萝
+https://www.goodiptv.club/douyu/5803764
+#EXTINF:-1 group-title="HS港澳台直播",俄罗斯女孩安娜
+https://www.goodiptv.club/douyu/9314604
+#EXTINF:-1 group-title="HS港澳台直播",俗哥看电影
+https://www.goodiptv.club/douyu/2161818
+#EXTINF:-1 group-title="HS港澳台直播",俩个麻瓜
+https://www.goodiptv.club/douyu/10121755
+#EXTINF:-1 group-title="HS港澳台直播",倓张TanZ
+https://www.goodiptv.club/douyu/9687221
+#EXTINF:-1 group-title="HS港澳台直播",傲娇的超级赛亚人
+https://www.goodiptv.club/douyu/4373285
+#EXTINF:-1 group-title="HS港澳台直播",八幡老师1
+https://www.goodiptv.club/douyu/9272043
+#EXTINF:-1 group-title="HS港澳台直播",八月看大片
+https://www.goodiptv.club/douyu/8816671
+#EXTINF:-1 group-title="HS港澳台直播",关云猖
+https://www.goodiptv.club/douyu/8820996
+#EXTINF:-1 group-title="HS港澳台直播",养狗的一浩
+https://www.goodiptv.club/douyu/9478842
+#EXTINF:-1 group-title="HS港澳台直播",内蒙卡秋
+https://www.goodiptv.club/douyu/9067858
+#EXTINF:-1 group-title="HS港澳台直播",农村一级野钓大师
+https://www.goodiptv.club/douyu/9433591
+#EXTINF:-1 group-title="HS港澳台直播",农村幺妹儿
+https://www.goodiptv.club/douyu/9344884
+#EXTINF:-1 group-title="HS港澳台直播",农氏野钓
+https://www.goodiptv.club/douyu/10103361
+#EXTINF:-1 group-title="HS港澳台直播",冥王星丶丶
+https://www.goodiptv.club/douyu/296575
+#EXTINF:-1 group-title="HS港澳台直播",冬熊零食铺
+https://www.goodiptv.club/douyu/10586105
+#EXTINF:-1 group-title="HS港澳台直播",冬粮说故事
+https://www.goodiptv.club/douyu/5192695
+#EXTINF:-1 group-title="HS港澳台直播",冰糖葫芦没放盐V
+https://www.goodiptv.club/douyu/3505453
+#EXTINF:-1 group-title="HS港澳台直播",冷君聊大片
+https://www.goodiptv.club/douyu/9666219
+#EXTINF:-1 group-title="HS港澳台直播",冷孝洪
+https://www.goodiptv.club/douyu/9527761
+#EXTINF:-1 group-title="HS港澳台直播",几号房间
+https://www.goodiptv.club/douyu/8829425
+#EXTINF:-1 group-title="HS港澳台直播",凤起青云
+https://www.goodiptv.club/douyu/749124
+#EXTINF:-1 group-title="HS港澳台直播",分享备用
+https://www.goodiptv.club/douyu/5804577
+#EXTINF:-1 group-title="HS港澳台直播",刘也变z
+https://www.goodiptv.club/douyu/9489079
+#EXTINF:-1 group-title="HS港澳台直播",刘哔电影
+https://www.goodiptv.club/douyu/2632223
+#EXTINF:-1 group-title="HS港澳台直播",刘老师说电影
+https://www.goodiptv.club/douyu/8317926
+#EXTINF:-1 group-title="HS港澳台直播",创艺微视觉
+https://www.goodiptv.club/douyu/12619211
+#EXTINF:-1 group-title="HS港澳台直播",利利川
+https://www.goodiptv.club/douyu/9329249
+#EXTINF:-1 group-title="HS港澳台直播",别闹了美越
+https://www.goodiptv.club/douyu/9548244
+#EXTINF:-1 group-title="HS港澳台直播",到远方旅行
+https://www.goodiptv.club/douyu/9614588
+#EXTINF:-1 group-title="HS港澳台直播",制造show
+https://www.goodiptv.club/douyu/9550226
+#EXTINF:-1 group-title="HS港澳台直播",前任电影
+https://www.goodiptv.club/douyu/9329242
+#EXTINF:-1 group-title="HS港澳台直播",剧燃有趣
+https://www.goodiptv.club/douyu/10329702
+#EXTINF:-1 group-title="HS港澳台直播",剧能下饭鹰
+https://www.goodiptv.club/douyu/11931032
+#EXTINF:-1 group-title="HS港澳台直播",剧透大爆炸
+https://www.goodiptv.club/douyu/1739752
+#EXTINF:-1 group-title="HS港澳台直播",功夫联盟2020
+https://www.goodiptv.club/douyu/9169624
+#EXTINF:-1 group-title="HS港澳台直播",动漫推荐i
+https://www.goodiptv.club/douyu/5187099
+#EXTINF:-1 group-title="HS港澳台直播",动物启示录
+https://www.goodiptv.club/douyu/9443129
+#EXTINF:-1 group-title="HS港澳台直播",动画大师姐
+https://www.goodiptv.club/douyu/9742136
+#EXTINF:-1 group-title="HS港澳台直播",动画魂
+https://www.goodiptv.club/douyu/9393242
+#EXTINF:-1 group-title="HS港澳台直播",励志少年派
+https://www.goodiptv.club/douyu/8700367
+#EXTINF:-1 group-title="HS港澳台直播",勇敢的荒野人
+https://www.goodiptv.club/douyu/9618038
+#EXTINF:-1 group-title="HS港澳台直播",勤时铭悦
+https://www.goodiptv.club/douyu/8790357
+#EXTINF:-1 group-title="HS港澳台直播",十七岁的道姑
+https://www.goodiptv.club/douyu/3186217
+#EXTINF:-1 group-title="HS港澳台直播",十里说
+https://www.goodiptv.club/douyu/9064711
+#EXTINF:-1 group-title="HS港澳台直播",千代语默
+https://www.goodiptv.club/douyu/9484187
+#EXTINF:-1 group-title="HS港澳台直播",半打星冰乐
+https://www.goodiptv.club/douyu/7481383
+#EXTINF:-1 group-title="HS港澳台直播",半藏同学
+https://www.goodiptv.club/douyu/9372627
+#EXTINF:-1 group-title="HS港澳台直播",华白雨
+https://www.goodiptv.club/douyu/9495454
+#EXTINF:-1 group-title="HS港澳台直播",单纯的顺才少爷
+https://www.goodiptv.club/douyu/10084875
+#EXTINF:-1 group-title="HS港澳台直播",卖爆鱼的小姑娘
+https://www.goodiptv.club/douyu/5982597
+#EXTINF:-1 group-title="HS港澳台直播",南国小豆豆
+https://www.goodiptv.club/douyu/3310454
+#EXTINF:-1 group-title="HS港澳台直播",博然讲电影
+https://www.goodiptv.club/douyu/9561992
+#EXTINF:-1 group-title="HS港澳台直播",卡密密尼
+https://www.goodiptv.club/douyu/9013989
+#EXTINF:-1 group-title="HS港澳台直播",卡皮君本人
+https://www.goodiptv.club/douyu/9050486
+#EXTINF:-1 group-title="HS港澳台直播",卿离倾心
+https://www.goodiptv.club/douyu/7286439
+#EXTINF:-1 group-title="HS港澳台直播",历史经典烩
+https://www.goodiptv.club/douyu/9487003
+#EXTINF:-1 group-title="HS港澳台直播",压力洋哥
+https://www.goodiptv.club/douyu/5297259
+#EXTINF:-1 group-title="HS港澳台直播",双笙陈元汐
+https://www.goodiptv.club/douyu/6476693
+#EXTINF:-1 group-title="HS港澳台直播",发条张的电影最TOP
+https://www.goodiptv.club/douyu/2164691
+#EXTINF:-1 group-title="HS港澳台直播",只关于篮球的只老师
+https://www.goodiptv.club/douyu/9367541
+#EXTINF:-1 group-title="HS港澳台直播",可乐家的老骑士
+https://www.goodiptv.club/douyu/9958943
+#EXTINF:-1 group-title="HS港澳台直播",台球帝
+https://www.goodiptv.club/douyu/10078171
+#EXTINF:-1 group-title="HS港澳台直播",史君观影
+https://www.goodiptv.club/douyu/9644669
+#EXTINF:-1 group-title="HS港澳台直播",史君说剧
+https://www.goodiptv.club/douyu/9419771
+#EXTINF:-1 group-title="HS港澳台直播",叶墨的百妖馆
+https://www.goodiptv.club/douyu/9517351
+#EXTINF:-1 group-title="HS港澳台直播",吃草莓的果子狸V
+https://www.goodiptv.club/douyu/9382395
+#EXTINF:-1 group-title="HS港澳台直播",吃鸡小表弟
+https://www.goodiptv.club/douyu/9370197
+#EXTINF:-1 group-title="HS港澳台直播",同同电影
+https://www.goodiptv.club/douyu/10155359
+#EXTINF:-1 group-title="HS港澳台直播",同学请坐吧
+https://www.goodiptv.club/douyu/3736649
+#EXTINF:-1 group-title="HS港澳台直播",同行渔猎笔记
+https://www.goodiptv.club/douyu/2718202
+#EXTINF:-1 group-title="HS港澳台直播",名人物语DY
+https://www.goodiptv.club/douyu/9539063
+#EXTINF:-1 group-title="HS港澳台直播",名曰老饕
+https://www.goodiptv.club/douyu/1732550
+#EXTINF:-1 group-title="HS港澳台直播",君笑坊
+https://www.goodiptv.club/douyu/9444093
+#EXTINF:-1 group-title="HS港澳台直播",吟游诗人基德
+https://www.goodiptv.club/douyu/9337049
+#EXTINF:-1 group-title="HS港澳台直播",吟笑派
+https://www.goodiptv.club/douyu/2987100
+#EXTINF:-1 group-title="HS港澳台直播",听wo姐说
+https://www.goodiptv.club/douyu/8830082
+#EXTINF:-1 group-title="HS港澳台直播",吸奇侠
+https://www.goodiptv.club/douyu/8986636
+#EXTINF:-1 group-title="HS港澳台直播",吾恩5nn
+https://www.goodiptv.club/douyu/9631914
+#EXTINF:-1 group-title="HS港澳台直播",周六野Zoey
+https://www.goodiptv.club/douyu/8912150
+#EXTINF:-1 group-title="HS港澳台直播",周墨看电影
+https://www.goodiptv.club/douyu/9505584
+#EXTINF:-1 group-title="HS港澳台直播",周扒片
+https://www.goodiptv.club/douyu/6434857
+#EXTINF:-1 group-title="HS港澳台直播",周星驰的直播间
+https://www.goodiptv.club/douyu/8257039
+#EXTINF:-1 group-title="HS港澳台直播",周队长captain
+https://www.goodiptv.club/douyu/9023539
+#EXTINF:-1 group-title="HS港澳台直播",咆哮丶土拨鼠
+https://www.goodiptv.club/douyu/9564230
+#EXTINF:-1 group-title="HS港澳台直播",和猫住丶
+https://www.goodiptv.club/douyu/850030
+#EXTINF:-1 group-title="HS港澳台直播",咕噜咕噜剧
+https://www.goodiptv.club/douyu/10082307
+#EXTINF:-1 group-title="HS港澳台直播",咸车
+https://www.goodiptv.club/douyu/9498554
+#EXTINF:-1 group-title="HS港澳台直播",咸鱼翻身是另一面咸鱼
+https://www.goodiptv.club/douyu/527076
+#EXTINF:-1 group-title="HS港澳台直播",哇萨比抓马WD
+https://www.goodiptv.club/douyu/8808506
+#EXTINF:-1 group-title="HS港澳台直播",哲忆丶
+https://www.goodiptv.club/douyu/8977251
+#EXTINF:-1 group-title="HS港澳台直播",唐人探影
+https://www.goodiptv.club/douyu/10371561
+#EXTINF:-1 group-title="HS港澳台直播",唐司令说电影
+https://www.goodiptv.club/douyu/8774345
+#EXTINF:-1 group-title="HS港澳台直播",喜人电影
+https://www.goodiptv.club/douyu/10348735
+#EXTINF:-1 group-title="HS港澳台直播",喜剧电影笑不停
+https://www.goodiptv.club/douyu/10298856
+#EXTINF:-1 group-title="HS港澳台直播",喝水少年孙十一
+https://www.goodiptv.club/douyu/9619048
+#EXTINF:-1 group-title="HS港澳台直播",喵喵喵的猫酱酱
+https://www.goodiptv.club/douyu/11179077
+#EXTINF:-1 group-title="HS港澳台直播",喵妹说电影
+https://www.goodiptv.club/douyu/9312432
+#EXTINF:-1 group-title="HS港澳台直播",喵招诗雨
+https://www.goodiptv.club/douyu/9651121
+#EXTINF:-1 group-title="HS港澳台直播",喵来啦V
+https://www.goodiptv.club/douyu/8657669
+#EXTINF:-1 group-title="HS港澳台直播",嘴巴鼻子没有沟
+https://www.goodiptv.club/douyu/10217984
+#EXTINF:-1 group-title="HS港澳台直播",噬元兽影视
+https://www.goodiptv.club/douyu/8896723
+#EXTINF:-1 group-title="HS港澳台直播",四叶草影视
+https://www.goodiptv.club/douyu/9446117
+#EXTINF:-1 group-title="HS港澳台直播",国士无双人物传奇
+https://www.goodiptv.club/douyu/9544555
+#EXTINF:-1 group-title="HS港澳台直播",国际吸猫协会
+https://www.goodiptv.club/douyu/8657834
+#EXTINF:-1 group-title="HS港澳台直播",圈踢动漫
+https://www.goodiptv.club/douyu/1952680
+#EXTINF:-1 group-title="HS港澳台直播",在下小苏Su
+https://www.goodiptv.club/douyu/8658051
+#EXTINF:-1 group-title="HS港澳台直播",培根悖论唠唠嗑
+https://www.goodiptv.club/douyu/5354713
+#EXTINF:-1 group-title="HS港澳台直播",堇姑娘
+https://www.goodiptv.club/douyu/297689
+#EXTINF:-1 group-title="HS港澳台直播",夏利俊EWE路亚
+https://www.goodiptv.club/douyu/9974427
+#EXTINF:-1 group-title="HS港澳台直播",夏夜柚子树
+https://www.goodiptv.club/douyu/9606419
+#EXTINF:-1 group-title="HS港澳台直播",夏日幻听MCE
+https://www.goodiptv.club/douyu/9546437
+#EXTINF:-1 group-title="HS港澳台直播",外卖仙人成天
+https://www.goodiptv.club/douyu/9498506
+#EXTINF:-1 group-title="HS港澳台直播",夙瑶瑾
+https://www.goodiptv.club/douyu/9450568
+#EXTINF:-1 group-title="HS港澳台直播",多发几个思雨
+https://www.goodiptv.club/douyu/7256376
+#EXTINF:-1 group-title="HS港澳台直播",多多其木格
+https://www.goodiptv.club/douyu/9075374
+#EXTINF:-1 group-title="HS港澳台直播",多多看车
+https://www.goodiptv.club/douyu/4921957
+#EXTINF:-1 group-title="HS港澳台直播",多巴安工作室
+https://www.goodiptv.club/douyu/9446799
+#EXTINF:-1 group-title="HS港澳台直播",夜与白鲸V
+https://www.goodiptv.club/douyu/9734515
+#EXTINF:-1 group-title="HS港澳台直播",大力学姐
+https://www.goodiptv.club/douyu/8784719
+#EXTINF:-1 group-title="HS港澳台直播",大坑侦探社
+https://www.goodiptv.club/douyu/9440339
+#EXTINF:-1 group-title="HS港澳台直播",大壮撞电影
+https://www.goodiptv.club/douyu/9437349
+#EXTINF:-1 group-title="HS港澳台直播",大帅比陈雅楠
+https://www.goodiptv.club/douyu/9718700
+#EXTINF:-1 group-title="HS港澳台直播",大汁猪
+https://www.goodiptv.club/douyu/9191071
+#EXTINF:-1 group-title="HS港澳台直播",大河庄一世繁华
+https://www.goodiptv.club/douyu/9501548
+#EXTINF:-1 group-title="HS港澳台直播",大漠叔叔Dm
+https://www.goodiptv.club/douyu/1109218
+#EXTINF:-1 group-title="HS港澳台直播",大熊观影
+https://www.goodiptv.club/douyu/8851140
+#EXTINF:-1 group-title="HS港澳台直播",大狼狗刨祖坟
+https://www.goodiptv.club/douyu/10217975
+#EXTINF:-1 group-title="HS港澳台直播",大笑影院
+https://www.goodiptv.club/douyu/10329300
+#EXTINF:-1 group-title="HS港澳台直播",大米饭影视
+https://www.goodiptv.club/douyu/9824094
+#EXTINF:-1 group-title="HS港澳台直播",大胡子魏
+https://www.goodiptv.club/douyu/8792763
+#EXTINF:-1 group-title="HS港澳台直播",大荒电影
+https://www.goodiptv.club/douyu/3508538
+#EXTINF:-1 group-title="HS港澳台直播",大趴电影院
+https://www.goodiptv.club/douyu/8747638
+#EXTINF:-1 group-title="HS港澳台直播",天JIANG
+https://www.goodiptv.club/douyu/9455480
+#EXTINF:-1 group-title="HS港澳台直播",天堂电影1895
+https://www.goodiptv.club/douyu/9573592
+#EXTINF:-1 group-title="HS港澳台直播",天才大熊猫啊
+https://www.goodiptv.club/douyu/10646699
+#EXTINF:-1 group-title="HS港澳台直播",天才简史
+https://www.goodiptv.club/douyu/8662915
+#EXTINF:-1 group-title="HS港澳台直播",天才霸总的狐崽崽
+https://www.goodiptv.club/douyu/10394922
+#EXTINF:-1 group-title="HS港澳台直播",奇光主播
+https://www.goodiptv.club/douyu/8009547
+#EXTINF:-1 group-title="HS港澳台直播",奇光主播Blaze
+https://www.goodiptv.club/douyu/12817608
+#EXTINF:-1 group-title="HS港澳台直播",奇光主播e
+https://www.goodiptv.club/douyu/11849873
+#EXTINF:-1 group-title="HS港澳台直播",奇兮兮悄陌
+https://www.goodiptv.club/douyu/953193
+#EXTINF:-1 group-title="HS港澳台直播",奇妙博物馆
+https://www.goodiptv.club/douyu/9409723
+#EXTINF:-1 group-title="HS港澳台直播",奇怪电影
+https://www.goodiptv.club/douyu/9440966
+#EXTINF:-1 group-title="HS港澳台直播",奇趣研究
+https://www.goodiptv.club/douyu/8661456
+#EXTINF:-1 group-title="HS港澳台直播",奥雷卡尔克斯
+https://www.goodiptv.club/douyu/1224356
+#EXTINF:-1 group-title="HS港澳台直播",女汉子说电影
+https://www.goodiptv.club/douyu/9395966
+#EXTINF:-1 group-title="HS港澳台直播",女王泡面V
+https://www.goodiptv.club/douyu/9369937
+#EXTINF:-1 group-title="HS港澳台直播",女神撩电影
+https://www.goodiptv.club/douyu/9439594
+#EXTINF:-1 group-title="HS港澳台直播",好像视说故事
+https://www.goodiptv.club/douyu/8891883
+#EXTINF:-1 group-title="HS港澳台直播",好剧看不停
+https://www.goodiptv.club/douyu/9388938
+#EXTINF:-1 group-title="HS港澳台直播",妈见打ovo
+https://www.goodiptv.club/douyu/9413151
+#EXTINF:-1 group-title="HS港澳台直播",娱乐扒叔
+https://www.goodiptv.club/douyu/9624581
+#EXTINF:-1 group-title="HS港澳台直播",娱乐新番
+https://www.goodiptv.club/douyu/9564845
+#EXTINF:-1 group-title="HS港澳台直播",婧公子
+https://www.goodiptv.club/douyu/9464182
+#EXTINF:-1 group-title="HS港澳台直播",学徒郭昱麟
+https://www.goodiptv.club/douyu/8871095
+#EXTINF:-1 group-title="HS港澳台直播",宇哥讲电影
+https://www.goodiptv.club/douyu/2104744
+#EXTINF:-1 group-title="HS港澳台直播",宇宙探索飞船
+https://www.goodiptv.club/douyu/9456028
+#EXTINF:-1 group-title="HS港澳台直播",宇宙无敌韩三金
+https://www.goodiptv.club/douyu/3194372
+#EXTINF:-1 group-title="HS港澳台直播",宇宙视界
+https://www.goodiptv.club/douyu/9498354
+#EXTINF:-1 group-title="HS港澳台直播",安安601801
+https://www.goodiptv.club/douyu/11283504
+#EXTINF:-1 group-title="HS港澳台直播",安小闫说电影x
+https://www.goodiptv.club/douyu/1842621
+#EXTINF:-1 group-title="HS港澳台直播",安琪儿的羽翼
+https://www.goodiptv.club/douyu/9388783
+#EXTINF:-1 group-title="HS港澳台直播",宝蓝和朋友们
+https://www.goodiptv.club/douyu/9283356
+#EXTINF:-1 group-title="HS港澳台直播",将军侃片
+https://www.goodiptv.club/douyu/8529736
+#EXTINF:-1 group-title="HS港澳台直播",尉迟杰影评
+https://www.goodiptv.club/douyu/8850682
+#EXTINF:-1 group-title="HS港澳台直播",小三笠笠酱
+https://www.goodiptv.club/douyu/9188696
+#EXTINF:-1 group-title="HS港澳台直播",小丽说电影
+https://www.goodiptv.club/douyu/9368016
+#EXTINF:-1 group-title="HS港澳台直播",小乔讲电影
+https://www.goodiptv.club/douyu/8413908
+#EXTINF:-1 group-title="HS港澳台直播",小侠来了
+https://www.goodiptv.club/douyu/9734042
+#EXTINF:-1 group-title="HS港澳台直播",小儛电影嘚啵嘚
+https://www.goodiptv.club/douyu/8362978
+#EXTINF:-1 group-title="HS港澳台直播",小刚学长o
+https://www.goodiptv.club/douyu/9701497
+#EXTINF:-1 group-title="HS港澳台直播",小司马说剧
+https://www.goodiptv.club/douyu/9660127
+#EXTINF:-1 group-title="HS港澳台直播",小姐姐Bie跑哦
+https://www.goodiptv.club/douyu/8666258
+#EXTINF:-1 group-title="HS港澳台直播",小小天才搞笑视频
+https://www.goodiptv.club/douyu/9419678
+#EXTINF:-1 group-title="HS港澳台直播",小小甜的骑士
+https://www.goodiptv.club/douyu/9236042
+#EXTINF:-1 group-title="HS港澳台直播",小小鹿老师
+https://www.goodiptv.club/douyu/9442889
+#EXTINF:-1 group-title="HS港澳台直播",小岛讲电影
+https://www.goodiptv.club/douyu/9390955
+#EXTINF:-1 group-title="HS港澳台直播",小手枪Newhandgun
+https://www.goodiptv.club/douyu/8943060
+#EXTINF:-1 group-title="HS港澳台直播",小明不背锅up
+https://www.goodiptv.club/douyu/117854
+#EXTINF:-1 group-title="HS港澳台直播",小木鱼de妈妈
+https://www.goodiptv.club/douyu/11199147
+#EXTINF:-1 group-title="HS港澳台直播",小林家的意大利炮
+https://www.goodiptv.club/douyu/9501444
+#EXTINF:-1 group-title="HS港澳台直播",小林家的旗女仆
+https://www.goodiptv.club/douyu/9211287
+#EXTINF:-1 group-title="HS港澳台直播",小毅主播e
+https://www.goodiptv.club/douyu/11851549
+#EXTINF:-1 group-title="HS港澳台直播",小毅主播K
+https://www.goodiptv.club/douyu/12851401
+#EXTINF:-1 group-title="HS港澳台直播",小毅主播q
+https://www.goodiptv.club/douyu/6906628
+#EXTINF:-1 group-title="HS港澳台直播",小浅说电影
+https://www.goodiptv.club/douyu/9665834
+#EXTINF:-1 group-title="HS港澳台直播",小涛讲电影V
+https://www.goodiptv.club/douyu/8415464
+#EXTINF:-1 group-title="HS港澳台直播",小爱看大片
+https://www.goodiptv.club/douyu/9312805
+#EXTINF:-1 group-title="HS港澳台直播",小片片说大片
+https://www.goodiptv.club/douyu/4258555
+#EXTINF:-1 group-title="HS港澳台直播",小片片说大片二
+https://www.goodiptv.club/douyu/10011547
+#EXTINF:-1 group-title="HS港澳台直播",小猪搞笑精选
+https://www.goodiptv.club/douyu/10329752
+#EXTINF:-1 group-title="HS港澳台直播",小红在农村
+https://www.goodiptv.club/douyu/1492444
+#EXTINF:-1 group-title="HS港澳台直播",小约翰可汗
+https://www.goodiptv.club/douyu/9738854
+#EXTINF:-1 group-title="HS港澳台直播",小羊放映室
+https://www.goodiptv.club/douyu/9433806
+#EXTINF:-1 group-title="HS港澳台直播",小艾大叔
+https://www.goodiptv.club/douyu/9314668
+#EXTINF:-1 group-title="HS港澳台直播",小超讲电影
+https://www.goodiptv.club/douyu/3432645
+#EXTINF:-1 group-title="HS港澳台直播",小铁房乐队
+https://www.goodiptv.club/douyu/9624976
+#EXTINF:-1 group-title="HS港澳台直播",小陶气说动漫
+https://www.goodiptv.club/douyu/9527700
+#EXTINF:-1 group-title="HS港澳台直播",小青放映社
+https://www.goodiptv.club/douyu/9314689
+#EXTINF:-1 group-title="HS港澳台直播",小馒头叫包几
+https://www.goodiptv.club/douyu/9028721
+#EXTINF:-1 group-title="HS港澳台直播",小马哥说电影
+https://www.goodiptv.club/douyu/9396672
+#EXTINF:-1 group-title="HS港澳台直播",小鸭子老师
+https://www.goodiptv.club/douyu/9627625
+#EXTINF:-1 group-title="HS港澳台直播",小鹏漫剪
+https://www.goodiptv.club/douyu/9476810
+#EXTINF:-1 group-title="HS港澳台直播",小黑豹子啊
+https://www.goodiptv.club/douyu/9458184
+#EXTINF:-1 group-title="HS港澳台直播",少女娜娜酱
+https://www.goodiptv.club/douyu/9445557
+#EXTINF:-1 group-title="HS港澳台直播",少年看电影
+https://www.goodiptv.club/douyu/8762120
+#EXTINF:-1 group-title="HS港澳台直播",少年阿虎233
+https://www.goodiptv.club/douyu/9396762
+#EXTINF:-1 group-title="HS港澳台直播",少打白骨精
+https://www.goodiptv.club/douyu/11531165
+#EXTINF:-1 group-title="HS港澳台直播",尚大人OwO
+https://www.goodiptv.club/douyu/9656124
+#EXTINF:-1 group-title="HS港澳台直播",尽整没用D
+https://www.goodiptv.club/douyu/8791622
+#EXTINF:-1 group-title="HS港澳台直播",屁屁鲁男孩
+https://www.goodiptv.club/douyu/708526
+#EXTINF:-1 group-title="HS港澳台直播",屁屁鸭家族LOVE
+https://www.goodiptv.club/douyu/9461930
+#EXTINF:-1 group-title="HS港澳台直播",山下智博official
+https://www.goodiptv.club/douyu/9186596
+#EXTINF:-1 group-title="HS港澳台直播",山里记
+https://www.goodiptv.club/douyu/9410236
+#EXTINF:-1 group-title="HS港澳台直播",岚FLL
+https://www.goodiptv.club/douyu/9409703
+#EXTINF:-1 group-title="HS港澳台直播",崽崽撩电影
+https://www.goodiptv.club/douyu/8325511
+#EXTINF:-1 group-title="HS港澳台直播",巅峰球迷会
+https://www.goodiptv.club/douyu/10417360
+#EXTINF:-1 group-title="HS港澳台直播",工藤新医heart
+https://www.goodiptv.club/douyu/8741860
+#EXTINF:-1 group-title="HS港澳台直播",师落
+https://www.goodiptv.club/douyu/6911044
+#EXTINF:-1 group-title="HS港澳台直播",幕撩电影
+https://www.goodiptv.club/douyu/9486015
+#EXTINF:-1 group-title="HS港澳台直播",庄尼兔拟音实验室
+https://www.goodiptv.club/douyu/9546169
+#EXTINF:-1 group-title="HS港澳台直播",庆皇龙利余
+https://www.goodiptv.club/douyu/9524210
+#EXTINF:-1 group-title="HS港澳台直播",开心嘴炮
+https://www.goodiptv.club/douyu/9026377
+#EXTINF:-1 group-title="HS港澳台直播",开心逛剧场
+https://www.goodiptv.club/douyu/10329310
+#EXTINF:-1 group-title="HS港澳台直播",开心锤锤动漫
+https://www.goodiptv.club/douyu/9018297
+#EXTINF:-1 group-title="HS港澳台直播",开箱嘤嘤怪
+https://www.goodiptv.club/douyu/10319056
+#EXTINF:-1 group-title="HS港澳台直播",张宇394795
+https://www.goodiptv.club/douyu/7508566
+#EXTINF:-1 group-title="HS港澳台直播",张小莹要独立
+https://www.goodiptv.club/douyu/9647285
+#EXTINF:-1 group-title="HS港澳台直播",弹吉他的Miumiu
+https://www.goodiptv.club/douyu/4564166
+#EXTINF:-1 group-title="HS港澳台直播",强人说笑
+https://www.goodiptv.club/douyu/10329713
+#EXTINF:-1 group-title="HS港澳台直播",当下
+https://www.goodiptv.club/douyu/9389239
+#EXTINF:-1 group-title="HS港澳台直播",当幽兰剑遇上链子刀
+https://www.goodiptv.club/douyu/6027991
+#EXTINF:-1 group-title="HS港澳台直播",当燕双鹰遇见李元芳
+https://www.goodiptv.club/douyu/3439096
+#EXTINF:-1 group-title="HS港澳台直播",当铁手团遇到光复社
+https://www.goodiptv.club/douyu/5875025
+#EXTINF:-1 group-title="HS港澳台直播",影子叔V
+https://www.goodiptv.club/douyu/9446338
+#EXTINF:-1 group-title="HS港澳台直播",影视梗大叔
+https://www.goodiptv.club/douyu/9480648
+#EXTINF:-1 group-title="HS港澳台直播",影视集装箱
+https://www.goodiptv.club/douyu/8651489
+#EXTINF:-1 group-title="HS港澳台直播",往事vs随风1
+https://www.goodiptv.club/douyu/3113309
+#EXTINF:-1 group-title="HS港澳台直播",律子桑
+https://www.goodiptv.club/douyu/9371308
+#EXTINF:-1 group-title="HS港澳台直播",徐大sao
+https://www.goodiptv.club/douyu/7107176
+#EXTINF:-1 group-title="HS港澳台直播",徒手捏核弹
+https://www.goodiptv.club/douyu/8166878
+#EXTINF:-1 group-title="HS港澳台直播",御前狼王顾云川
+https://www.goodiptv.club/douyu/9517289
+#EXTINF:-1 group-title="HS港澳台直播",御魔君
+https://www.goodiptv.club/douyu/9199976
+#EXTINF:-1 group-title="HS港澳台直播",微梦屋
+https://www.goodiptv.club/douyu/7027040
+#EXTINF:-1 group-title="HS港澳台直播",微笑影视解说
+https://www.goodiptv.club/douyu/9476790
+#EXTINF:-1 group-title="HS港澳台直播",徳彪的奇妙冒险
+https://www.goodiptv.club/douyu/9145648
+#EXTINF:-1 group-title="HS港澳台直播",德井鱼
+https://www.goodiptv.club/douyu/9184833
+#EXTINF:-1 group-title="HS港澳台直播",心叽酱
+https://www.goodiptv.club/douyu/9488056
+#EXTINF:-1 group-title="HS港澳台直播",忆暄Ethan
+https://www.goodiptv.club/douyu/9570042
+#EXTINF:-1 group-title="HS港澳台直播",快乐的小波子
+https://www.goodiptv.club/douyu/9039399
+#EXTINF:-1 group-title="HS港澳台直播",快哥说老片
+https://www.goodiptv.club/douyu/10411518
+#EXTINF:-1 group-title="HS港澳台直播",快看张不止
+https://www.goodiptv.club/douyu/8413226
+#EXTINF:-1 group-title="HS港澳台直播",怠惰守夜
+https://www.goodiptv.club/douyu/8842108
+#EXTINF:-1 group-title="HS港澳台直播",怡宝妹妹丶
+https://www.goodiptv.club/douyu/434971
+#EXTINF:-1 group-title="HS港澳台直播",怪事屋
+https://www.goodiptv.club/douyu/8706084
+#EXTINF:-1 group-title="HS港澳台直播",怪兽马提尼电影
+https://www.goodiptv.club/douyu/9075333
+#EXTINF:-1 group-title="HS港澳台直播",怪味爆米花电影
+https://www.goodiptv.club/douyu/9422144
+#EXTINF:-1 group-title="HS港澳台直播",恨铁
+https://www.goodiptv.club/douyu/6369954
+#EXTINF:-1 group-title="HS港澳台直播",恰饭橘
+https://www.goodiptv.club/douyu/7974136
+#EXTINF:-1 group-title="HS港澳台直播",悉奇
+https://www.goodiptv.club/douyu/9401473
+#EXTINF:-1 group-title="HS港澳台直播",悬疑MOVIE
+https://www.goodiptv.club/douyu/9601429
+#EXTINF:-1 group-title="HS港澳台直播",情感测试小分队
+https://www.goodiptv.club/douyu/9697688
+#EXTINF:-1 group-title="HS港澳台直播",懂懂1234
+https://www.goodiptv.club/douyu/8729614
+#EXTINF:-1 group-title="HS港澳台直播",懒猫是只喵
+https://www.goodiptv.club/douyu/260322
+#EXTINF:-1 group-title="HS港澳台直播",戏晶SHOW
+https://www.goodiptv.club/douyu/9565130
+#EXTINF:-1 group-title="HS港澳台直播",成龙历险纪
+https://www.goodiptv.club/douyu/2287949
+#EXTINF:-1 group-title="HS港澳台直播",我为奥迪上黄金
+https://www.goodiptv.club/douyu/9336286
+#EXTINF:-1 group-title="HS港澳台直播",我们可爱的程程
+https://www.goodiptv.club/douyu/329667
+#EXTINF:-1 group-title="HS港澳台直播",我叫孙火旺
+https://www.goodiptv.club/douyu/9770949
+#EXTINF:-1 group-title="HS港澳台直播",我叫萌迪迪V
+https://www.goodiptv.club/douyu/5354705
+#EXTINF:-1 group-title="HS港澳台直播",我是YOLO啊
+https://www.goodiptv.club/douyu/5077166
+#EXTINF:-1 group-title="HS港澳台直播",我是一只粽子啊啊
+https://www.goodiptv.club/douyu/8867276
+#EXTINF:-1 group-title="HS港澳台直播",我是一只西瓜啊
+https://www.goodiptv.club/douyu/9065082
+#EXTINF:-1 group-title="HS港澳台直播",我是吃泡面看电影
+https://www.goodiptv.club/douyu/8851063
+#EXTINF:-1 group-title="HS港澳台直播",我是怪异君V
+https://www.goodiptv.club/douyu/10279570
+#EXTINF:-1 group-title="HS港澳台直播",我是瓜皮儿本人a
+https://www.goodiptv.club/douyu/9665696
+#EXTINF:-1 group-title="HS港澳台直播",我是阿树酱
+https://www.goodiptv.club/douyu/9486020
+#EXTINF:-1 group-title="HS港澳台直播",我的超能力女友
+https://www.goodiptv.club/douyu/9501159
+#EXTINF:-1 group-title="HS港澳台直播",我砸晕了牛顿奥
+https://www.goodiptv.club/douyu/1218414
+#EXTINF:-1 group-title="HS港澳台直播",戒喵中心
+https://www.goodiptv.club/douyu/8658212
+#EXTINF:-1 group-title="HS港澳台直播",戴萌兔
+https://www.goodiptv.club/douyu/9522315
+#EXTINF:-1 group-title="HS港澳台直播",户外老曹
+https://www.goodiptv.club/douyu/9957389
+#EXTINF:-1 group-title="HS港澳台直播",扒圈圈V
+https://www.goodiptv.club/douyu/9649913
+#EXTINF:-1 group-title="HS港澳台直播",打工战士SWEET
+https://www.goodiptv.club/douyu/8795660
+#EXTINF:-1 group-title="HS港澳台直播",托尔兹桃花剑
+https://www.goodiptv.club/douyu/8896743
+#EXTINF:-1 group-title="HS港澳台直播",拳击大王
+https://www.goodiptv.club/douyu/9385340
+#EXTINF:-1 group-title="HS港澳台直播",拳叔二次元
+https://www.goodiptv.club/douyu/9484105
+#EXTINF:-1 group-title="HS港澳台直播",指缝里看电影
+https://www.goodiptv.club/douyu/9647834
+#EXTINF:-1 group-title="HS港澳台直播",挖沟连彭沟长
+https://www.goodiptv.club/douyu/8413092
+#EXTINF:-1 group-title="HS港澳台直播",据说放映室
+https://www.goodiptv.club/douyu/8837964
+#EXTINF:-1 group-title="HS港澳台直播",探奇录
+https://www.goodiptv.club/douyu/9746763
+#EXTINF:-1 group-title="HS港澳台直播",探秘者大正
+https://www.goodiptv.club/douyu/9330485
+#EXTINF:-1 group-title="HS港澳台直播",搞笑动漫大本营
+https://www.goodiptv.club/douyu/9650181
+#EXTINF:-1 group-title="HS港澳台直播",搞笑天堂岛
+https://www.goodiptv.club/douyu/6916081
+#EXTINF:-1 group-title="HS港澳台直播",搞笑孟文明
+https://www.goodiptv.club/douyu/9766337
+#EXTINF:-1 group-title="HS港澳台直播",搞笑院长
+https://www.goodiptv.club/douyu/8829915
+#EXTINF:-1 group-title="HS港澳台直播",政宗君de情敌
+https://www.goodiptv.club/douyu/9624330
+#EXTINF:-1 group-title="HS港澳台直播",敢来碰我
+https://www.goodiptv.club/douyu/10308225
+#EXTINF:-1 group-title="HS港澳台直播",敬汉卿250
+https://www.goodiptv.club/douyu/2912165
+#EXTINF:-1 group-title="HS港澳台直播",数据库saber
+https://www.goodiptv.club/douyu/9720506
+#EXTINF:-1 group-title="HS港澳台直播",文侠灬杨杨
+https://www.goodiptv.club/douyu/10317257
+#EXTINF:-1 group-title="HS港澳台直播",文曰小强
+https://www.goodiptv.club/douyu/2680501
+#EXTINF:-1 group-title="HS港澳台直播",文西与阿漆
+https://www.goodiptv.club/douyu/8737695
+#EXTINF:-1 group-title="HS港澳台直播",斗鱼恐怖游戏合集
+https://www.goodiptv.club/douyu/10401481
+#EXTINF:-1 group-title="HS港澳台直播",新视角解说
+https://www.goodiptv.club/douyu/8813254
+#EXTINF:-1 group-title="HS港澳台直播",方攵日央木几
+https://www.goodiptv.club/douyu/9942574
+#EXTINF:-1 group-title="HS港澳台直播",无际电影
+https://www.goodiptv.club/douyu/9720498
+#EXTINF:-1 group-title="HS港澳台直播",日本女子摔角
+https://www.goodiptv.club/douyu/425809
+#EXTINF:-1 group-title="HS港澳台直播",旧梦随人心
+https://www.goodiptv.club/douyu/692533
+#EXTINF:-1 group-title="HS港澳台直播",旺仔大哥哥阿
+https://www.goodiptv.club/douyu/9629361
+#EXTINF:-1 group-title="HS港澳台直播",昆仑决KLF
+https://www.goodiptv.club/douyu/1753007
+#EXTINF:-1 group-title="HS港澳台直播",昆特牌之大哥食正野
+https://www.goodiptv.club/douyu/7919720
+#EXTINF:-1 group-title="HS港澳台直播",易说影视
+https://www.goodiptv.club/douyu/10859591
+#EXTINF:-1 group-title="HS港澳台直播",星君说电影
+https://www.goodiptv.club/douyu/8014467
+#EXTINF:-1 group-title="HS港澳台直播",星空茶茶
+https://www.goodiptv.club/douyu/8635497
+#EXTINF:-1 group-title="HS港澳台直播",是chshh
+https://www.goodiptv.club/douyu/9570579
+#EXTINF:-1 group-title="HS港澳台直播",是不是Pro
+https://www.goodiptv.club/douyu/9475113
+#EXTINF:-1 group-title="HS港澳台直播",是个小可爱iiii
+https://www.goodiptv.club/douyu/9650782
+#EXTINF:-1 group-title="HS港澳台直播",是你的迷弟吖
+https://www.goodiptv.club/douyu/7039598
+#EXTINF:-1 group-title="HS港澳台直播",是小x同学呀
+https://www.goodiptv.club/douyu/9415020
+#EXTINF:-1 group-title="HS港澳台直播",是忆昔啊
+https://www.goodiptv.club/douyu/9455518
+#EXTINF:-1 group-title="HS港澳台直播",是真的林虎LinHu
+https://www.goodiptv.club/douyu/9540113
+#EXTINF:-1 group-title="HS港澳台直播",是纯洁上校
+https://www.goodiptv.club/douyu/9666042
+#EXTINF:-1 group-title="HS港澳台直播",是脑洞君君君
+https://www.goodiptv.club/douyu/9360149
+#EXTINF:-1 group-title="HS港澳台直播",晓晓说电影
+https://www.goodiptv.club/douyu/9430717
+#EXTINF:-1 group-title="HS港澳台直播",晓麦讲电影
+https://www.goodiptv.club/douyu/453963
+#EXTINF:-1 group-title="HS港澳台直播",暮肆Mousse
+https://www.goodiptv.club/douyu/9634199
+#EXTINF:-1 group-title="HS港澳台直播",暴走兄弟v
+https://www.goodiptv.club/douyu/9350960
+#EXTINF:-1 group-title="HS港澳台直播",暴走漫画
+https://www.goodiptv.club/douyu/1275878
+#EXTINF:-1 group-title="HS港澳台直播",暴躁少女零九
+https://www.goodiptv.club/douyu/9065302
+#EXTINF:-1 group-title="HS港澳台直播",曹小灵比比叨
+https://www.goodiptv.club/douyu/10289400
+#EXTINF:-1 group-title="HS港澳台直播",月影Yueing212
+https://www.goodiptv.club/douyu/8885525
+#EXTINF:-1 group-title="HS港澳台直播",有趣视频分享
+https://www.goodiptv.club/douyu/1816353
+#EXTINF:-1 group-title="HS港澳台直播",有部电影儿
+https://www.goodiptv.club/douyu/9736479
+#EXTINF:-1 group-title="HS港澳台直播",朔涵君
+https://www.goodiptv.club/douyu/9354201
+#EXTINF:-1 group-title="HS港澳台直播",木JJ
+https://www.goodiptv.club/douyu/9575463
+#EXTINF:-1 group-title="HS港澳台直播",末日说电影
+https://www.goodiptv.club/douyu/9431125
+#EXTINF:-1 group-title="HS港澳台直播",本主儿
+https://www.goodiptv.club/douyu/9565677
+#EXTINF:-1 group-title="HS港澳台直播",朱一旦的枯燥生活v
+https://www.goodiptv.club/douyu/7907979
+#EXTINF:-1 group-title="HS港澳台直播",李会长街溜子
+https://www.goodiptv.club/douyu/9741805
+#EXTINF:-1 group-title="HS港澳台直播",李允儿er的助眠小窝
+https://www.goodiptv.club/douyu/9038894
+#EXTINF:-1 group-title="HS港澳台直播",李李李蚊香
+https://www.goodiptv.club/douyu/4786399
+#EXTINF:-1 group-title="HS港澳台直播",村野趣事荟
+https://www.goodiptv.club/douyu/5794474
+#EXTINF:-1 group-title="HS港澳台直播",来呀官人V
+https://www.goodiptv.club/douyu/9986305
+#EXTINF:-1 group-title="HS港澳台直播",杨山羊goat
+https://www.goodiptv.club/douyu/6300365
+#EXTINF:-1 group-title="HS港澳台直播",杰克大魔王V
+https://www.goodiptv.club/douyu/9729740
+#EXTINF:-1 group-title="HS港澳台直播",松轩说电影
+https://www.goodiptv.club/douyu/1524969
+#EXTINF:-1 group-title="HS港澳台直播",林九影视
+https://www.goodiptv.club/douyu/7212528
+#EXTINF:-1 group-title="HS港澳台直播",林家渔妹
+https://www.goodiptv.club/douyu/9348805
+#EXTINF:-1 group-title="HS港澳台直播",果冻lui
+https://www.goodiptv.club/douyu/9191790
+#EXTINF:-1 group-title="HS港澳台直播",果冻萌萌的丶
+https://www.goodiptv.club/douyu/9607934
+#EXTINF:-1 group-title="HS港澳台直播",某声悠
+https://www.goodiptv.club/douyu/8896100
+#EXTINF:-1 group-title="HS港澳台直播",柠柠柠萌菌
+https://www.goodiptv.club/douyu/9720895
+#EXTINF:-1 group-title="HS港澳台直播",柠檬檬檬儿vlog
+https://www.goodiptv.club/douyu/9624845
+#EXTINF:-1 group-title="HS港澳台直播",柳青瑶本尊
+https://www.goodiptv.club/douyu/2281324
+#EXTINF:-1 group-title="HS港澳台直播",桃红梨白专栏
+https://www.goodiptv.club/douyu/9568196
+#EXTINF:-1 group-title="HS港澳台直播",梓帆说电影
+https://www.goodiptv.club/douyu/9769563
+#EXTINF:-1 group-title="HS港澳台直播",梦夫人啊
+https://www.goodiptv.club/douyu/9384527
+#EXTINF:-1 group-title="HS港澳台直播",梦觉教游泳
+https://www.goodiptv.club/douyu/4531679
+#EXTINF:-1 group-title="HS港澳台直播",植物椿de房间
+https://www.goodiptv.club/douyu/9771247
+#EXTINF:-1 group-title="HS港澳台直播",楚哥说电影
+https://www.goodiptv.club/douyu/9375743
+#EXTINF:-1 group-title="HS港澳台直播",橘癫疯Oswald
+https://www.goodiptv.club/douyu/8793544
+#EXTINF:-1 group-title="HS港澳台直播",橙记Orange丶
+https://www.goodiptv.club/douyu/4549169
+#EXTINF:-1 group-title="HS港澳台直播",正宗吔汁吔树牌
+https://www.goodiptv.club/douyu/10217953
+#EXTINF:-1 group-title="HS港澳台直播",正直的陈易
+https://www.goodiptv.club/douyu/9365118
+#EXTINF:-1 group-title="HS港澳台直播",每日好电影V
+https://www.goodiptv.club/douyu/9533302
+#EXTINF:-1 group-title="HS港澳台直播",民工小代
+https://www.goodiptv.club/douyu/9616619
+#EXTINF:-1 group-title="HS港澳台直播",民间高手show
+https://www.goodiptv.club/douyu/10372765
+#EXTINF:-1 group-title="HS港澳台直播",永无叙V
+https://www.goodiptv.club/douyu/9442980
+#EXTINF:-1 group-title="HS港澳台直播",永远快乐的小美女
+https://www.goodiptv.club/douyu/6091425
+#EXTINF:-1 group-title="HS港澳台直播",求求扣扣困困
+https://www.goodiptv.club/douyu/8795274
+#EXTINF:-1 group-title="HS港澳台直播",汪哥说电影
+https://www.goodiptv.club/douyu/9312685
+#EXTINF:-1 group-title="HS港澳台直播",沂沐啊
+https://www.goodiptv.club/douyu/9481137
+#EXTINF:-1 group-title="HS港澳台直播",沉郁观影
+https://www.goodiptv.club/douyu/9393577
+#EXTINF:-1 group-title="HS港澳台直播",沫子瞪片
+https://www.goodiptv.club/douyu/8783035
+#EXTINF:-1 group-title="HS港澳台直播",油兔不二字幕组
+https://www.goodiptv.club/douyu/8850453
+#EXTINF:-1 group-title="HS港澳台直播",泽静
+https://www.goodiptv.club/douyu/9055742
+#EXTINF:-1 group-title="HS港澳台直播",洋房姐姐
+https://www.goodiptv.club/douyu/9172774
+#EXTINF:-1 group-title="HS港澳台直播",洛克电影
+https://www.goodiptv.club/douyu/9414884
+#EXTINF:-1 group-title="HS港澳台直播",洛飕飕
+https://www.goodiptv.club/douyu/9543361
+#EXTINF:-1 group-title="HS港澳台直播",流小豆
+https://www.goodiptv.club/douyu/2441228
+#EXTINF:-1 group-title="HS港澳台直播",流浪吧王温暖
+https://www.goodiptv.club/douyu/655973
+#EXTINF:-1 group-title="HS港澳台直播",浩贤说电影
+https://www.goodiptv.club/douyu/10535867
+#EXTINF:-1 group-title="HS港澳台直播",海森堡事件录
+https://www.goodiptv.club/douyu/9754849
+#EXTINF:-1 group-title="HS港澳台直播",海男Rexv
+https://www.goodiptv.club/douyu/9626732
+#EXTINF:-1 group-title="HS港澳台直播",涛哥测评
+https://www.goodiptv.club/douyu/613850
+#EXTINF:-1 group-title="HS港澳台直播",涛浪浪电影
+https://www.goodiptv.club/douyu/5424258
+#EXTINF:-1 group-title="HS港澳台直播",淮秀帮官方
+https://www.goodiptv.club/douyu/2519745
+#EXTINF:-1 group-title="HS港澳台直播",淼漫迷
+https://www.goodiptv.club/douyu/9455567
+#EXTINF:-1 group-title="HS港澳台直播",渔农泰叔
+https://www.goodiptv.club/douyu/9348784
+#EXTINF:-1 group-title="HS港澳台直播",渔戈兄弟赶海
+https://www.goodiptv.club/douyu/9091847
+#EXTINF:-1 group-title="HS港澳台直播",渔村小马
+https://www.goodiptv.club/douyu/1447771
+#EXTINF:-1 group-title="HS港澳台直播",渔民老海
+https://www.goodiptv.club/douyu/9272327
+#EXTINF:-1 group-title="HS港澳台直播",渚岸汐潮233
+https://www.goodiptv.club/douyu/9518082
+#EXTINF:-1 group-title="HS港澳台直播",游钓中国李大毛
+https://www.goodiptv.club/douyu/791411
+#EXTINF:-1 group-title="HS港澳台直播",游钓黑坑一疯子
+https://www.goodiptv.club/douyu/10103411
+#EXTINF:-1 group-title="HS港澳台直播",滑稽中二梦V
+https://www.goodiptv.club/douyu/8829706
+#EXTINF:-1 group-title="HS港澳台直播",满汉女神Yangqi
+https://www.goodiptv.club/douyu/9650246
+#EXTINF:-1 group-title="HS港澳台直播",漫威君
+https://www.goodiptv.club/douyu/1713615
+#EXTINF:-1 group-title="HS港澳台直播",漫尼动画
+https://www.goodiptv.club/douyu/10364790
+#EXTINF:-1 group-title="HS港澳台直播",潇湘公子L
+https://www.goodiptv.club/douyu/9535657
+#EXTINF:-1 group-title="HS港澳台直播",潜伏sc
+https://www.goodiptv.club/douyu/9458345
+#EXTINF:-1 group-title="HS港澳台直播",火宗君丶
+https://www.goodiptv.club/douyu/9580477
+#EXTINF:-1 group-title="HS港澳台直播",火柴人HyunsDojo
+https://www.goodiptv.club/douyu/9430394
+#EXTINF:-1 group-title="HS港澳台直播",火龙果讲电影本人
+https://www.goodiptv.club/douyu/2039501
+#EXTINF:-1 group-title="HS港澳台直播",火龙果说电影
+https://www.goodiptv.club/douyu/9559158
+#EXTINF:-1 group-title="HS港澳台直播",灵佑奇谈
+https://www.goodiptv.club/douyu/9678207
+#EXTINF:-1 group-title="HS港澳台直播",热影连连看
+https://www.goodiptv.club/douyu/9388931
+#EXTINF:-1 group-title="HS港澳台直播",无才先生
+https://www.goodiptv.club/douyu/8317571
+#EXTINF:-1 group-title="HS港澳台直播",然续续
+https://www.goodiptv.club/douyu/9609171
+#EXTINF:-1 group-title="HS港澳台直播",爆笑行为大赏
+https://www.goodiptv.club/douyu/10329767
+#EXTINF:-1 group-title="HS港澳台直播",爪子drumdoll
+https://www.goodiptv.club/douyu/6428730
+#EXTINF:-1 group-title="HS港澳台直播",爱唱跳Rap的胖虎
+https://www.goodiptv.club/douyu/5895598
+#EXTINF:-1 group-title="HS港澳台直播",爱好恐怖片的美男子
+https://www.goodiptv.club/douyu/9280384
+#EXTINF:-1 group-title="HS港澳台直播",爱护大自然的小沫
+https://www.goodiptv.club/douyu/12885097
+#EXTINF:-1 group-title="HS港澳台直播",爱旅行的巧克力
+https://www.goodiptv.club/douyu/9653323
+#EXTINF:-1 group-title="HS港澳台直播",爱星影视
+https://www.goodiptv.club/douyu/9476806
+#EXTINF:-1 group-title="HS港澳台直播",爱爱小s
+https://www.goodiptv.club/douyu/10308312
+#EXTINF:-1 group-title="HS港澳台直播",爱玩客iVankr
+https://www.goodiptv.club/douyu/317409
+#EXTINF:-1 group-title="HS港澳台直播",爱黏人的圆子
+https://www.goodiptv.club/douyu/9576933
+#EXTINF:-1 group-title="HS港澳台直播",牛叔说电影
+https://www.goodiptv.club/douyu/2758565
+#EXTINF:-1 group-title="HS港澳台直播",牛叔说电影二
+https://www.goodiptv.club/douyu/10010651
+#EXTINF:-1 group-title="HS港澳台直播",牛奶味的梦猪猪
+https://www.goodiptv.club/douyu/5261342
+#EXTINF:-1 group-title="HS港澳台直播",特辑电影院
+https://www.goodiptv.club/douyu/3637778
+#EXTINF:-1 group-title="HS港澳台直播",犀利影评
+https://www.goodiptv.club/douyu/9647845
+#EXTINF:-1 group-title="HS港澳台直播",狂拽酷炫
+https://www.goodiptv.club/douyu/4332
+#EXTINF:-1 group-title="HS港澳台直播",狂野的种马小说家
+https://www.goodiptv.club/douyu/8849703
+#EXTINF:-1 group-title="HS港澳台直播",狂阿弥爷
+https://www.goodiptv.club/douyu/8975282
+#EXTINF:-1 group-title="HS港澳台直播",狄胖胖与李乖乖
+https://www.goodiptv.club/douyu/12183882
+#EXTINF:-1 group-title="HS港澳台直播",狗毛电影
+https://www.goodiptv.club/douyu/9356637
+#EXTINF:-1 group-title="HS港澳台直播",独立鱼电影
+https://www.goodiptv.club/douyu/2413555
+#EXTINF:-1 group-title="HS港澳台直播",猎奇笔记本
+https://www.goodiptv.club/douyu/9627172
+#EXTINF:-1 group-title="HS港澳台直播",猛禽西伯利亚白猿
+https://www.goodiptv.club/douyu/10074407
+#EXTINF:-1 group-title="HS港澳台直播",猪弟驸马爷
+https://www.goodiptv.club/douyu/8862501
+#EXTINF:-1 group-title="HS港澳台直播",猪肉熟了
+https://www.goodiptv.club/douyu/296836
+#EXTINF:-1 group-title="HS港澳台直播",猫-咪
+https://www.goodiptv.club/douyu/11673725
+#EXTINF:-1 group-title="HS港澳台直播",猫丶趴趴
+https://www.goodiptv.club/douyu/1255068
+#EXTINF:-1 group-title="HS港澳台直播",猫叔说电影
+https://www.goodiptv.club/douyu/9820039
+#EXTINF:-1 group-title="HS港澳台直播",猫总白一航
+https://www.goodiptv.club/douyu/9517105
+#EXTINF:-1 group-title="HS港澳台直播",猫眼电影
+https://www.goodiptv.club/douyu/8726221
+#EXTINF:-1 group-title="HS港澳台直播",猫记丶
+https://www.goodiptv.club/douyu/9242659
+#EXTINF:-1 group-title="HS港澳台直播",猴博士爱讲课V
+https://www.goodiptv.club/douyu/8799739
+#EXTINF:-1 group-title="HS港澳台直播",王Li差点红
+https://www.goodiptv.club/douyu/9348469
+#EXTINF:-1 group-title="HS港澳台直播",王俊凯的资源组
+https://www.goodiptv.club/douyu/8862216
+#EXTINF:-1 group-title="HS港澳台直播",王坑坑聊电影
+https://www.goodiptv.club/douyu/9402110
+#EXTINF:-1 group-title="HS港澳台直播",王大齐吖
+https://www.goodiptv.club/douyu/3647278
+#EXTINF:-1 group-title="HS港澳台直播",王子和史蒂文
+https://www.goodiptv.club/douyu/9583975
+#EXTINF:-1 group-title="HS港澳台直播",王德发的导演小阿伟
+https://www.goodiptv.club/douyu/9430799
+#EXTINF:-1 group-title="HS港澳台直播",玖月影视
+https://www.goodiptv.club/douyu/9339251
+#EXTINF:-1 group-title="HS港澳台直播",珞珞说电影
+https://www.goodiptv.club/douyu/3718888
+#EXTINF:-1 group-title="HS港澳台直播",理娱打挺疼
+https://www.goodiptv.club/douyu/2925563
+#EXTINF:-1 group-title="HS港澳台直播",瑟克斯潘克斯
+https://www.goodiptv.club/douyu/9370434
+#EXTINF:-1 group-title="HS港澳台直播",瓦岗寨主坑爹李
+https://www.goodiptv.club/douyu/7661496
+#EXTINF:-1 group-title="HS港澳台直播",甜漫妮666
+https://www.goodiptv.club/douyu/1569773
+#EXTINF:-1 group-title="HS港澳台直播",甜粉粉的旅人呀
+https://www.goodiptv.club/douyu/7335280
+#EXTINF:-1 group-title="HS港澳台直播",用户2979576101
+https://www.goodiptv.club/douyu/9273031
+#EXTINF:-1 group-title="HS港澳台直播",用户6827521003
+https://www.goodiptv.club/douyu/12878276
+#EXTINF:-1 group-title="HS港澳台直播",用户9324958648
+https://www.goodiptv.club/douyu/4716
+#EXTINF:-1 group-title="HS港澳台直播",用青春去旅行
+https://www.goodiptv.club/douyu/9629423
+#EXTINF:-1 group-title="HS港澳台直播",田园小漠
+https://www.goodiptv.club/douyu/8669435
+#EXTINF:-1 group-title="HS港澳台直播",田浅浅w
+https://www.goodiptv.club/douyu/9747144
+#EXTINF:-1 group-title="HS港澳台直播",电影七十二变
+https://www.goodiptv.club/douyu/9323164
+#EXTINF:-1 group-title="HS港澳台直播",电影先锋V
+https://www.goodiptv.club/douyu/8711212
+#EXTINF:-1 group-title="HS港澳台直播",电影冷知识
+https://www.goodiptv.club/douyu/9660835
+#EXTINF:-1 group-title="HS港澳台直播",电影刘油果
+https://www.goodiptv.club/douyu/3985805
+#EXTINF:-1 group-title="HS港澳台直播",电影吐槽汇
+https://www.goodiptv.club/douyu/9447668
+#EXTINF:-1 group-title="HS港澳台直播",电影小班长
+https://www.goodiptv.club/douyu/549693
+#EXTINF:-1 group-title="HS港澳台直播",电影幕后喵
+https://www.goodiptv.club/douyu/8884074
+#EXTINF:-1 group-title="HS港澳台直播",电影漩涡
+https://www.goodiptv.club/douyu/8706350
+#EXTINF:-1 group-title="HS港澳台直播",电影笔记
+https://www.goodiptv.club/douyu/9636034
+#EXTINF:-1 group-title="HS港澳台直播",电影迷小雅
+https://www.goodiptv.club/douyu/9639225
+#EXTINF:-1 group-title="HS港澳台直播",电影黑匣子
+https://www.goodiptv.club/douyu/8706652
+#EXTINF:-1 group-title="HS港澳台直播",电视这个圈儿
+https://www.goodiptv.club/douyu/9425669
+#EXTINF:-1 group-title="HS港澳台直播",画渣花小烙
+https://www.goodiptv.club/douyu/9072066
+#EXTINF:-1 group-title="HS港澳台直播",疯狂小潴潴
+https://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 group-title="HS港澳台直播",疯狂尛潴潴
+https://www.goodiptv.club/douyu/4290711
+#EXTINF:-1 group-title="HS港澳台直播",白了个痴
+https://www.goodiptv.club/douyu/319576
+#EXTINF:-1 group-title="HS港澳台直播",白鱼Sakana
+https://www.goodiptv.club/douyu/9611771
+#EXTINF:-1 group-title="HS港澳台直播",百万巨星麒麟君
+https://www.goodiptv.club/douyu/3431701
+#EXTINF:-1 group-title="HS港澳台直播",百态人间大赏
+https://www.goodiptv.club/douyu/8724904
+#EXTINF:-1 group-title="HS港澳台直播",百晓生说剧
+https://www.goodiptv.club/douyu/9649681
+#EXTINF:-1 group-title="HS港澳台直播",皮皮动漫星球
+https://www.goodiptv.club/douyu/8841920
+#EXTINF:-1 group-title="HS港澳台直播",目及WATCHER
+https://www.goodiptv.club/douyu/8712204
+#EXTINF:-1 group-title="HS港澳台直播",看不见的罗杰
+https://www.goodiptv.club/douyu/8821917
+#EXTINF:-1 group-title="HS港澳台直播",看个M啊
+https://www.goodiptv.club/douyu/9720919
+#EXTINF:-1 group-title="HS港澳台直播",看电影了没V
+https://www.goodiptv.club/douyu/9562616
+#EXTINF:-1 group-title="HS港澳台直播",真香动漫解说
+https://www.goodiptv.club/douyu/9391292
+#EXTINF:-1 group-title="HS港澳台直播",睡丝虫
+https://www.goodiptv.club/douyu/10308234
+#EXTINF:-1 group-title="HS港澳台直播",石头老纪
+https://www.goodiptv.club/douyu/9047060
+#EXTINF:-1 group-title="HS港澳台直播",碎片记
+https://www.goodiptv.club/douyu/9412981
+#EXTINF:-1 group-title="HS港澳台直播",神奇的大智
+https://www.goodiptv.club/douyu/9650047
+#EXTINF:-1 group-title="HS港澳台直播",神奇的老皮AmazingLP
+https://www.goodiptv.club/douyu/8891285
+#EXTINF:-1 group-title="HS港澳台直播",神烦xp
+https://www.goodiptv.club/douyu/8286679
+#EXTINF:-1 group-title="HS港澳台直播",神羊说电影
+https://www.goodiptv.club/douyu/9443552
+#EXTINF:-1 group-title="HS港澳台直播",神迹小霸霸
+https://www.goodiptv.club/douyu/8837963
+#EXTINF:-1 group-title="HS港澳台直播",秀才侃娱乐
+https://www.goodiptv.club/douyu/9382873
+#EXTINF:-1 group-title="HS港澳台直播",科学放映室
+https://www.goodiptv.club/douyu/9439712
+#EXTINF:-1 group-title="HS港澳台直播",科幻Fans布玛
+https://www.goodiptv.club/douyu/3508304
+#EXTINF:-1 group-title="HS港澳台直播",科幻战舰
+https://www.goodiptv.club/douyu/8772060
+#EXTINF:-1 group-title="HS港澳台直播",科幻梦工场
+https://www.goodiptv.club/douyu/9608874
+#EXTINF:-1 group-title="HS港澳台直播",科技PRO
+https://www.goodiptv.club/douyu/9446511
+#EXTINF:-1 group-title="HS港澳台直播",秦看番
+https://www.goodiptv.club/douyu/9542832
+#EXTINF:-1 group-title="HS港澳台直播",程情写意
+https://www.goodiptv.club/douyu/9191358
+#EXTINF:-1 group-title="HS港澳台直播",穆杉车话
+https://www.goodiptv.club/douyu/9602107
+#EXTINF:-1 group-title="HS港澳台直播",立秋动画
+https://www.goodiptv.club/douyu/10351891
+#EXTINF:-1 group-title="HS港澳台直播",竹儿公公
+https://www.goodiptv.club/douyu/8807568
+#EXTINF:-1 group-title="HS港澳台直播",竹公子有礼了
+https://www.goodiptv.club/douyu/8887432
+#EXTINF:-1 group-title="HS港澳台直播",竹内亮导演
+https://www.goodiptv.club/douyu/8933612
+#EXTINF:-1 group-title="HS港澳台直播",竹叶的熊猫
+https://www.goodiptv.club/douyu/3870925
+#EXTINF:-1 group-title="HS港澳台直播",笑点组长
+https://www.goodiptv.club/douyu/9535757
+#EXTINF:-1 group-title="HS港澳台直播",笑笑笑团长
+https://www.goodiptv.club/douyu/10329368
+#EXTINF:-1 group-title="HS港澳台直播",笨鸟最后飞
+https://www.goodiptv.club/douyu/7360064
+#EXTINF:-1 group-title="HS港澳台直播",管哥视频
+https://www.goodiptv.club/douyu/10181584
+#EXTINF:-1 group-title="HS港澳台直播",篮球人物
+https://www.goodiptv.club/douyu/8434598
+#EXTINF:-1 group-title="HS港澳台直播",篮球小人物
+https://www.goodiptv.club/douyu/9184257
+#EXTINF:-1 group-title="HS港澳台直播",篮球过人技巧
+https://www.goodiptv.club/douyu/9406897
+#EXTINF:-1 group-title="HS港澳台直播",篮球长镜头
+https://www.goodiptv.club/douyu/9399887
+#EXTINF:-1 group-title="HS港澳台直播",箩卜君
+https://www.goodiptv.club/douyu/7495810
+#EXTINF:-1 group-title="HS港澳台直播",米尼影院
+https://www.goodiptv.club/douyu/7642724
+#EXTINF:-1 group-title="HS港澳台直播",粤男有话儿
+https://www.goodiptv.club/douyu/8764282
+#EXTINF:-1 group-title="HS港澳台直播",粤知一二
+https://www.goodiptv.club/douyu/2940299
+#EXTINF:-1 group-title="HS港澳台直播",粤语电影丶
+https://www.goodiptv.club/douyu/1226741
+#EXTINF:-1 group-title="HS港澳台直播",粽子酱v
+https://www.goodiptv.club/douyu/9390685
+#EXTINF:-1 group-title="HS港澳台直播",𬙊缘老给给
+https://www.goodiptv.club/douyu/9543413
+#EXTINF:-1 group-title="HS港澳台直播",红灯亮时丶右转
+https://www.goodiptv.club/douyu/8971159
+#EXTINF:-1 group-title="HS港澳台直播",纳豆奶奶666
+https://www.goodiptv.club/douyu/8745628
+#EXTINF:-1 group-title="HS港澳台直播",经典拳赛
+https://www.goodiptv.club/douyu/9412138
+#EXTINF:-1 group-title="HS港澳台直播",绘说篮球C
+https://www.goodiptv.club/douyu/9401305
+#EXTINF:-1 group-title="HS港澳台直播",维塔利在野外
+https://www.goodiptv.club/douyu/9804068
+#EXTINF:-1 group-title="HS港澳台直播",维立方电影
+https://www.goodiptv.club/douyu/8706393
+#EXTINF:-1 group-title="HS港澳台直播",罐装老K
+https://www.goodiptv.club/douyu/9566210
+#EXTINF:-1 group-title="HS港澳台直播",网友咸几几
+https://www.goodiptv.club/douyu/2174405
+#EXTINF:-1 group-title="HS港澳台直播",网神影厅
+https://www.goodiptv.club/douyu/508118
+#EXTINF:-1 group-title="HS港澳台直播",罗休休休
+https://www.goodiptv.club/douyu/9403178
+#EXTINF:-1 group-title="HS港澳台直播",罗叔说戏
+https://www.goodiptv.club/douyu/9788756
+#EXTINF:-1 group-title="HS港澳台直播",羊小川
+https://www.goodiptv.club/douyu/11081842
+#EXTINF:-1 group-title="HS港澳台直播",美人而已
+https://www.goodiptv.club/douyu/5138817
+#EXTINF:-1 group-title="HS港澳台直播",羽羊朩夂一
+https://www.goodiptv.club/douyu/9533226
+#EXTINF:-1 group-title="HS港澳台直播",羽翼天使的挽歌
+https://www.goodiptv.club/douyu/9193179
+#EXTINF:-1 group-title="HS港澳台直播",翦瞳秋
+https://www.goodiptv.club/douyu/9623057
+#EXTINF:-1 group-title="HS港澳台直播",老人家小熊猫君
+https://www.goodiptv.club/douyu/753342
+#EXTINF:-1 group-title="HS港澳台直播",老段带你钓青鱼
+https://www.goodiptv.club/douyu/10105639
+#EXTINF:-1 group-title="HS港澳台直播",老烟斗鬼故事
+https://www.goodiptv.club/douyu/2337939
+#EXTINF:-1 group-title="HS港澳台直播",老王忆经典
+https://www.goodiptv.club/douyu/9687733
+#EXTINF:-1 group-title="HS港澳台直播",老王的夜电影院
+https://www.goodiptv.club/douyu/3498219
+#EXTINF:-1 group-title="HS港澳台直播",老王追剧吧
+https://www.goodiptv.club/douyu/9937291
+#EXTINF:-1 group-title="HS港澳台直播",老电影故事
+https://www.goodiptv.club/douyu/9167273
+#EXTINF:-1 group-title="HS港澳台直播",老秦说秦
+https://www.goodiptv.club/douyu/9650131
+#EXTINF:-1 group-title="HS港澳台直播",老邪说电影
+https://www.goodiptv.club/douyu/9222870
+#EXTINF:-1 group-title="HS港澳台直播",老高与小茉的死忠粉
+https://www.goodiptv.club/douyu/236461
+#EXTINF:-1 group-title="HS港澳台直播",老鱼说剧
+https://www.goodiptv.club/douyu/9994377
+#EXTINF:-1 group-title="HS港澳台直播",聚聚聚一个月
+https://www.goodiptv.club/douyu/4105989
+#EXTINF:-1 group-title="HS港澳台直播",肥宅小草
+https://www.goodiptv.club/douyu/8887438
+#EXTINF:-1 group-title="HS港澳台直播",育碧先生v
+https://www.goodiptv.club/douyu/9505962
+#EXTINF:-1 group-title="HS港澳台直播",胆子不小的郑吉祥
+https://www.goodiptv.club/douyu/9171887
+#EXTINF:-1 group-title="HS港澳台直播",胖段段fre
+https://www.goodiptv.club/douyu/9662856
+#EXTINF:-1 group-title="HS港澳台直播",胡椒粉的胡歌
+https://www.goodiptv.club/douyu/5448413
+#EXTINF:-1 group-title="HS港澳台直播",胥渡吧直播号
+https://www.goodiptv.club/douyu/2040822
+#EXTINF:-1 group-title="HS港澳台直播",胶片看电影
+https://www.goodiptv.club/douyu/3715426
+#EXTINF:-1 group-title="HS港澳台直播",脑袋大1937
+https://www.goodiptv.club/douyu/7655471
+#EXTINF:-1 group-title="HS港澳台直播",腹黑电影
+https://www.goodiptv.club/douyu/8867878
+#EXTINF:-1 group-title="HS港澳台直播",自说自话的总裁
+https://www.goodiptv.club/douyu/9317739
+#EXTINF:-1 group-title="HS港澳台直播",芒果酱Mangoo
+https://www.goodiptv.club/douyu/138959
+#EXTINF:-1 group-title="HS港澳台直播",芙芙家的洗碗君
+https://www.goodiptv.club/douyu/9446706
+#EXTINF:-1 group-title="HS港澳台直播",花町馆长
+https://www.goodiptv.club/douyu/2295993
+#EXTINF:-1 group-title="HS港澳台直播",花花与三猫CatLive
+https://www.goodiptv.club/douyu/7348194
+#EXTINF:-1 group-title="HS港澳台直播",芳芳说故事
+https://www.goodiptv.club/douyu/9401905
+#EXTINF:-1 group-title="HS港澳台直播",芽老师最爱的小胖宝贝
+https://www.goodiptv.club/douyu/238643
+#EXTINF:-1 group-title="HS港澳台直播",苏八拉西吐槽屋
+https://www.goodiptv.club/douyu/97643
+#EXTINF:-1 group-title="HS港澳台直播",若轻云之蔽月兮
+https://www.goodiptv.club/douyu/9262563
+#EXTINF:-1 group-title="HS港澳台直播",英大吉来了
+https://www.goodiptv.club/douyu/9174097
+#EXTINF:-1 group-title="HS港澳台直播",苹果Zei妖
+https://www.goodiptv.club/douyu/2793084
+#EXTINF:-1 group-title="HS港澳台直播",苹果Zei甜
+https://www.goodiptv.club/douyu/1174353
+#EXTINF:-1 group-title="HS港澳台直播",草泥泥影院
+https://www.goodiptv.club/douyu/9091049
+#EXTINF:-1 group-title="HS港澳台直播",荒野万池王
+https://www.goodiptv.club/douyu/9544576
+#EXTINF:-1 group-title="HS港澳台直播",荒野伊甸园
+https://www.goodiptv.club/douyu/9611578
+#EXTINF:-1 group-title="HS港澳台直播",荒野动物园
+https://www.goodiptv.club/douyu/9663833
+#EXTINF:-1 group-title="HS港澳台直播",荒野建筑指南
+https://www.goodiptv.club/douyu/10226974
+#EXTINF:-1 group-title="HS港澳台直播",荒野有声书
+https://www.goodiptv.club/douyu/10650322
+#EXTINF:-1 group-title="HS港澳台直播",荒野避难所
+https://www.goodiptv.club/douyu/10234334
+#EXTINF:-1 group-title="HS港澳台直播",莫扎金
+https://www.goodiptv.club/douyu/9272077
+#EXTINF:-1 group-title="HS港澳台直播",莱纳电影
+https://www.goodiptv.club/douyu/9356937
+#EXTINF:-1 group-title="HS港澳台直播",菠萝屋SpongeBob
+https://www.goodiptv.club/douyu/12400977
+#EXTINF:-1 group-title="HS港澳台直播",菠萝屋的海绵宝宝
+https://www.goodiptv.club/douyu/3949681
+#EXTINF:-1 group-title="HS港澳台直播",菠萝说电影
+https://www.goodiptv.club/douyu/3714736
+#EXTINF:-1 group-title="HS港澳台直播",萌宠妙妙屋
+https://www.goodiptv.club/douyu/8653533
+#EXTINF:-1 group-title="HS港澳台直播",萌小鬼
+https://www.goodiptv.club/douyu/3928
+#EXTINF:-1 group-title="HS港澳台直播",萱草丶daylily
+https://www.goodiptv.club/douyu/9685770
+#EXTINF:-1 group-title="HS港澳台直播",董王老登
+https://www.goodiptv.club/douyu/9412287
+#EXTINF:-1 group-title="HS港澳台直播",蓝星人一ET
+https://www.goodiptv.club/douyu/9431727
+#EXTINF:-1 group-title="HS港澳台直播",蓝格雷
+https://www.goodiptv.club/douyu/5124602
+#EXTINF:-1 group-title="HS港澳台直播",蔡恩雨Priscilla
+https://www.goodiptv.club/douyu/9662853
+#EXTINF:-1 group-title="HS港澳台直播",蔡老板家的长工丶
+https://www.goodiptv.club/douyu/8869614
+#EXTINF:-1 group-title="HS港澳台直播",蕃薯粥粥煮好了
+https://www.goodiptv.club/douyu/11878141
+#EXTINF:-1 group-title="HS港澳台直播",虫哥说电影
+https://www.goodiptv.club/douyu/8915074
+#EXTINF:-1 group-title="HS港澳台直播",虾米大模王
+https://www.goodiptv.club/douyu/102114
+#EXTINF:-1 group-title="HS港澳台直播",蛋黄讲动漫
+https://www.goodiptv.club/douyu/9542834
+#EXTINF:-1 group-title="HS港澳台直播",血小板呐呐
+https://www.goodiptv.club/douyu/4285043
+#EXTINF:-1 group-title="HS港澳台直播",血腥丶妖瞳
+https://www.goodiptv.club/douyu/4231787
+#EXTINF:-1 group-title="HS港澳台直播",西施撩电影
+https://www.goodiptv.club/douyu/7532080
+#EXTINF:-1 group-title="HS港澳台直播",要不要请你吃元宝蜡烛
+https://www.goodiptv.club/douyu/4168287
+#EXTINF:-1 group-title="HS港澳台直播",见世君V
+https://www.goodiptv.club/douyu/10220896
+#EXTINF:-1 group-title="HS港澳台直播",言官有本
+https://www.goodiptv.club/douyu/9660124
+#EXTINF:-1 group-title="HS港澳台直播",训练师十六
+https://www.goodiptv.club/douyu/9721338
+#EXTINF:-1 group-title="HS港澳台直播",讲故事的角马
+https://www.goodiptv.club/douyu/4400816
+#EXTINF:-1 group-title="HS港澳台直播",话龙电竞
+https://www.goodiptv.club/douyu/9957571
+#EXTINF:-1 group-title="HS港澳台直播",说说电影故事
+https://www.goodiptv.club/douyu/9444627
+#EXTINF:-1 group-title="HS港澳台直播",谁语说电影
+https://www.goodiptv.club/douyu/8705754
+#EXTINF:-1 group-title="HS港澳台直播",调侃贫道XIN版
+https://www.goodiptv.club/douyu/9463586
+#EXTINF:-1 group-title="HS港澳台直播",豆客解说
+https://www.goodiptv.club/douyu/8883122
+#EXTINF:-1 group-title="HS港澳台直播",负担亡魂
+https://www.goodiptv.club/douyu/10308242
+#EXTINF:-1 group-title="HS港澳台直播",贰哥电影
+https://www.goodiptv.club/douyu/9338867
+#EXTINF:-1 group-title="HS港澳台直播",贾贵队长真男神
+https://www.goodiptv.club/douyu/299854
+#EXTINF:-1 group-title="HS港澳台直播",赤焰男孩
+https://www.goodiptv.club/douyu/9835644
+#EXTINF:-1 group-title="HS港澳台直播",赵本删不删
+https://www.goodiptv.club/douyu/9837104
+#EXTINF:-1 group-title="HS港澳台直播",赶海大弟
+https://www.goodiptv.club/douyu/9348766
+#EXTINF:-1 group-title="HS港澳台直播",起来啦小躺
+https://www.goodiptv.club/douyu/8849047
+#EXTINF:-1 group-title="HS港澳台直播",超wu的大白兔
+https://www.goodiptv.club/douyu/2925299
+#EXTINF:-1 group-title="HS港澳台直播",趣评测李杰灵
+https://www.goodiptv.club/douyu/751316
+#EXTINF:-1 group-title="HS港澳台直播",车模颜值大赏
+https://www.goodiptv.club/douyu/10118209
+#EXTINF:-1 group-title="HS港澳台直播",轩邈Elias
+https://www.goodiptv.club/douyu/9412454
+#EXTINF:-1 group-title="HS港澳台直播",轻风乍起的号
+https://www.goodiptv.club/douyu/9445489
+#EXTINF:-1 group-title="HS港澳台直播",辰哥说电影
+https://www.goodiptv.club/douyu/9371407
+#EXTINF:-1 group-title="HS港澳台直播",迷剧阿菁
+https://www.goodiptv.club/douyu/9486024
+#EXTINF:-1 group-title="HS港澳台直播",迷影至下Filmlast
+https://www.goodiptv.club/douyu/9187596
+#EXTINF:-1 group-title="HS港澳台直播",追寻那解不开的问题
+https://www.goodiptv.club/douyu/5727066
+#EXTINF:-1 group-title="HS港澳台直播",逐梦电影
+https://www.goodiptv.club/douyu/4058285
+#EXTINF:-1 group-title="HS港澳台直播",逗米说电影
+https://www.goodiptv.club/douyu/421222
+#EXTINF:-1 group-title="HS港澳台直播",邸生
+https://www.goodiptv.club/douyu/9665298
+#EXTINF:-1 group-title="HS港澳台直播",郑云工作室
+https://www.goodiptv.club/douyu/2995636
+#EXTINF:-1 group-title="HS港澳台直播",郭云神奇
+https://www.goodiptv.club/douyu/8694831
+#EXTINF:-1 group-title="HS港澳台直播",都市夜魔人老王
+https://www.goodiptv.club/douyu/610972
+#EXTINF:-1 group-title="HS港澳台直播",鄂东老男孩
+https://www.goodiptv.club/douyu/8837707
+#EXTINF:-1 group-title="HS港澳台直播",酉晨君
+https://www.goodiptv.club/douyu/9484541
+#EXTINF:-1 group-title="HS港澳台直播",酋知鱼
+https://www.goodiptv.club/douyu/5408225
+#EXTINF:-1 group-title="HS港澳台直播",酒痴东梦a
+https://www.goodiptv.club/douyu/9477805
+#EXTINF:-1 group-title="HS港澳台直播",酷酷的滕
+https://www.goodiptv.club/douyu/1286383
+#EXTINF:-1 group-title="HS港澳台直播",醉我天涯zwty
+https://www.goodiptv.club/douyu/9479775
+#EXTINF:-1 group-title="HS港澳台直播",野格影视
+https://www.goodiptv.club/douyu/9931766
+#EXTINF:-1 group-title="HS港澳台直播",野灿baka
+https://www.goodiptv.club/douyu/8867233
+#EXTINF:-1 group-title="HS港澳台直播",野生岛民
+https://www.goodiptv.club/douyu/10217843
+#EXTINF:-1 group-title="HS港澳台直播",野行涛哥V
+https://www.goodiptv.club/douyu/9329608
+#EXTINF:-1 group-title="HS港澳台直播",金枪娱
+https://www.goodiptv.club/douyu/2798717
+#EXTINF:-1 group-title="HS港澳台直播",金渐层沈同学
+https://www.goodiptv.club/douyu/9516467
+#EXTINF:-1 group-title="HS港澳台直播",鎏酸v
+https://www.goodiptv.club/douyu/9546016
+#EXTINF:-1 group-title="HS港澳台直播",铁牛杰哥
+https://www.goodiptv.club/douyu/8815425
+#EXTINF:-1 group-title="HS港澳台直播",鑫酱盘动漫
+https://www.goodiptv.club/douyu/9547575
+#EXTINF:-1 group-title="HS港澳台直播",钓鱼大锋子
+https://www.goodiptv.club/douyu/10074370
+#EXTINF:-1 group-title="HS港澳台直播",钓鱼欧尼AnglerJJung
+https://www.goodiptv.club/douyu/10616765
+#EXTINF:-1 group-title="HS港澳台直播",钟意嚼完唔松弟弟边炉
+https://www.goodiptv.club/douyu/8912325
+#EXTINF:-1 group-title="HS港澳台直播",钱小元说电影
+https://www.goodiptv.club/douyu/9368265
+#EXTINF:-1 group-title="HS港澳台直播",铁头与橘子
+https://www.goodiptv.club/douyu/9450942
+#EXTINF:-1 group-title="HS港澳台直播",铁血影视汇
+https://www.goodiptv.club/douyu/9649701
+#EXTINF:-1 group-title="HS港澳台直播",锅盖哒
+https://www.goodiptv.club/douyu/9398828
+#EXTINF:-1 group-title="HS港澳台直播",锋哥聊商机
+https://www.goodiptv.club/douyu/9472141
+#EXTINF:-1 group-title="HS港澳台直播",长片短解
+https://www.goodiptv.club/douyu/9410946
+#EXTINF:-1 group-title="HS港澳台直播",阎君说剧
+https://www.goodiptv.club/douyu/10475459
+#EXTINF:-1 group-title="HS港澳台直播",阳仔骑行
+https://www.goodiptv.club/douyu/9329185
+#EXTINF:-1 group-title="HS港澳台直播",阿九筒的春天
+https://www.goodiptv.club/douyu/3705679
+#EXTINF:-1 group-title="HS港澳台直播",阿依图娜
+https://www.goodiptv.club/douyu/9047046
+#EXTINF:-1 group-title="HS港澳台直播",阿坤在努力
+https://www.goodiptv.club/douyu/9407329
+#EXTINF:-1 group-title="HS港澳台直播",阿尔法是只边牧
+https://www.goodiptv.club/douyu/8662812
+#EXTINF:-1 group-title="HS港澳台直播",阿忙赶海
+https://www.goodiptv.club/douyu/9348876
+#EXTINF:-1 group-title="HS港澳台直播",阿成漫漫看
+https://www.goodiptv.club/douyu/8799435
+#EXTINF:-1 group-title="HS港澳台直播",阿松撩剧
+https://www.goodiptv.club/douyu/8880843
+#EXTINF:-1 group-title="HS港澳台直播",阿福ThomasV
+https://www.goodiptv.club/douyu/9194089
+#EXTINF:-1 group-title="HS港澳台直播",阿苏电影
+https://www.goodiptv.club/douyu/9037784
+#EXTINF:-1 group-title="HS港澳台直播",阿魁方言配音
+https://www.goodiptv.club/douyu/9442903
+#EXTINF:-1 group-title="HS港澳台直播",陈瀚Siri
+https://www.goodiptv.club/douyu/759805
+#EXTINF:-1 group-title="HS港澳台直播",隐紫大人不会吐槽
+https://www.goodiptv.club/douyu/9207457
+#EXTINF:-1 group-title="HS港澳台直播",雨忆动漫
+https://www.goodiptv.club/douyu/9568700
+#EXTINF:-1 group-title="HS港澳台直播",雪辉TnT
+https://www.goodiptv.club/douyu/8936207
+#EXTINF:-1 group-title="HS港澳台直播",鞋荐JMJ
+https://www.goodiptv.club/douyu/865331
+#EXTINF:-1 group-title="HS港澳台直播",预言家Alice
+https://www.goodiptv.club/douyu/9483772
+#EXTINF:-1 group-title="HS港澳台直播",颜雪落落落
+https://www.goodiptv.club/douyu/8864291
+#EXTINF:-1 group-title="HS港澳台直播",飞行员欧文讲故事
+https://www.goodiptv.club/douyu/9678790
+#EXTINF:-1 group-title="HS港澳台直播",香兰爱影视
+https://www.goodiptv.club/douyu/9487090
+#EXTINF:-1 group-title="HS港澳台直播",香菜碎碎念鸭
+https://www.goodiptv.club/douyu/9663665
+#EXTINF:-1 group-title="HS港澳台直播",马小跳在这儿
+https://www.goodiptv.club/douyu/9722147
+#EXTINF:-1 group-title="HS港澳台直播",马老师是马也Sama
+https://www.goodiptv.club/douyu/8821892
+#EXTINF:-1 group-title="HS港澳台直播",高攀了这人间1
+https://www.goodiptv.club/douyu/9651506
+#EXTINF:-1 group-title="HS港澳台直播",高能恐怖片段君
+https://www.goodiptv.club/douyu/10401475
+#EXTINF:-1 group-title="HS港澳台直播",鬼兄奇谈
+https://www.goodiptv.club/douyu/8722254
+#EXTINF:-1 group-title="HS港澳台直播",魔术师丶西索
+https://www.goodiptv.club/douyu/6610883
+#EXTINF:-1 group-title="HS港澳台直播",鯋鱼辰辰
+https://www.goodiptv.club/douyu/7623292
+#EXTINF:-1 group-title="HS港澳台直播",鲁过一世
+https://www.goodiptv.club/douyu/9716515
+#EXTINF:-1 group-title="HS港澳台直播",鲤环姬Lee
+https://www.goodiptv.club/douyu/9791703
+#EXTINF:-1 group-title="HS港澳台直播",鲨说电影
+https://www.goodiptv.club/douyu/9544628
+#EXTINF:-1 group-title="HS港澳台直播",鸡哥聊电影
+https://www.goodiptv.club/douyu/5067952
+#EXTINF:-1 group-title="HS港澳台直播",鸡蛋高V
+https://www.goodiptv.club/douyu/9367188
+#EXTINF:-1 group-title="HS港澳台直播",鹏友说电影
+https://www.goodiptv.club/douyu/9445244
+#EXTINF:-1 group-title="HS港澳台直播",麦绿素dustdream
+https://www.goodiptv.club/douyu/9336437
+#EXTINF:-1 group-title="HS港澳台直播",麻雀喳喳野行记
+https://www.goodiptv.club/douyu/10088966
+#EXTINF:-1 group-title="HS港澳台直播",黄栗子Ye
+https://www.goodiptv.club/douyu/9046097
+#EXTINF:-1 group-title="HS港澳台直播",黑T毒物
+https://www.goodiptv.club/douyu/3579219
+#EXTINF:-1 group-title="HS港澳台直播",黑色脑回路
+https://www.goodiptv.club/douyu/9339300
+#EXTINF:-1 group-title="HS港澳台直播",黑衣陌秦mq
+https://www.goodiptv.club/douyu/9559308
+#EXTINF:-1 group-title="HS港澳台直播",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="HS港澳台直播",齐司礼
+https://www.goodiptv.club/douyu/9481340
+#EXTINF:-1 group-title="HS港澳台直播",齐木楠雄的哦呼v
+https://www.goodiptv.club/douyu/9415755
+#EXTINF:-1 group-title="HS港澳台直播",龙组队长天昊
+https://www.goodiptv.club/douyu/1487654
+#EXTINF:-1 group-title="HS港澳台直播",龙又z
+https://www.goodiptv.club/douyu/9477915
+#EXTINF:-1 group-title="HS港澳台直播",龙哥盘电影
+https://www.goodiptv.club/douyu/9736161
+#EXTINF:-1 group-title="HS港澳台直播",龙大人不喷火zZ
+https://www.goodiptv.club/douyu/9437298
+#EXTINF:-1 group-title="HS港澳台直播",龙馍馍UP
+https://www.goodiptv.club/douyu/1717648
 #EXTINF:-1 group-title="HS港澳台直播",RedeGospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",TelevisionConsciente
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 group-title="HS港澳台直播",新闻
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=4ddaacd71fba9e9ac283ac489c0bdf88&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",都市
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=4c1827eb4c27460f0501e78871e3bea2&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",民生
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=292a459c03087101e870832dbf907908&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",法治
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=27c1cb887b52d7b1e002a804264919da&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",公共
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=7066cca6346b4deaf391c368eba61519&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",河南乡村
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=2777e4f7a044a9d5765fea004047fd1a&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",电视剧
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=0e2f5a3b85beae3ed77fc67b57442cc5&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",文物宝库
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d279bef35836f90ded3066a0d29c61ba&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",武术
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=4c5b4633a96ae3b04c4857c2ff43683d&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",睛彩中原
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=119cc83162c1168a31d2ae2d48f82c90&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",国学
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=3d01320177f78ca9779a2a508050293a&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",欢腾购物
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=dac921619cafd61cc8f541c948139895&wsTime=1792731852
+#EXTINF:-1 group-title="HS港澳台直播",CHC影迷电影
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20261022220259e7570ee21b194b829d5f176ef09f8fa6&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261022220259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261022220259&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=40a3137b228d7bb5e2b8089775c3b263
+#EXTINF:-1 group-title="HS港澳台直播",重庆卫视
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=2026102222025696d205c28ff74585822cc0d61068664c&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261022220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=171.8.79.254&SecurityKey=20261022220256&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff6b622eb005c1164deb695df675051a
+#EXTINF:-1 group-title="HS港澳台直播",青海卫视
+http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=2026102222025506d05a110b714d2287ecbfd37125ba38&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20261022220255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=171.8.79.254&SecurityKey=20261022220255&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ec6dd6aaf1c1f223807ea0f07a380a2
+#EXTINF:-1 group-title="HS港澳台直播",CGTN外语纪录
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=202610230802564596205eff794f70845d2db78b233efd&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20261023080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=171.8.79.254&SecurityKey=20261023080256&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5eac5b24edc9ecc157a4530dfc6db700
+#EXTINF:-1 group-title="HS港澳台直播",CGTN阿拉伯语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=202610230802565c110645262740a0a13837aa6220451d&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20261023080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=171.8.79.254&SecurityKey=20261023080256&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e1a25054c13b92aea8a1245cbc65e2f
+#EXTINF:-1 group-title="HS港澳台直播",CGTN西班牙语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=20261023080256565affa99ef24a99b934b4ef7d011f7d&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20261023080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=171.8.79.254&SecurityKey=20261023080256&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4962f54db99d491462b57d2f71b9003
+#EXTINF:-1 group-title="HS港澳台直播",CGTN法语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=20261023080256fae681f855484a3bbfe455a4b84a8cda&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20261023080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20261023080256&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=587a56e586a93fc3d16e062d6d5810fd
+#EXTINF:-1 group-title="HS港澳台直播",CGTN俄语
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=202610230802565ec3ae723b2d4b53994234b6672d7fe3&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20261023080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=171.8.79.254&SecurityKey=20261023080256&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a142c3409e2dbd3d8f466fefa1f3d89c
+#EXTINF:-1 group-title="HS港澳台直播",中学生
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=20261023080257a7a3cb6ea6234f7fa9fab920e384d565&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20261023080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=171.8.79.254&SecurityKey=20261023080257&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=64da41f775544589333106d06d3c0474
+#EXTINF:-1 group-title="HS港澳台直播",CGTN
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=202610230802570517d8b9a1954dabace61abc8d223079&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20261023080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=171.8.79.254&SecurityKey=20261023080257&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dab6486aa07a2343ffacc2d4d597051c
+#EXTINF:-1 group-title="HS港澳台直播",赛事最经典
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=20261023080257eecafea2ceee47f9b8afcbe48cd69140&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20261023080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=171.8.79.254&SecurityKey=20261023080257&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7175452c90e3e2eec379842b7f550450
+#EXTINF:-1 group-title="HS港澳台直播",体坛名栏汇
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=2026102308025764a299e279534303a14035dc8f141c60&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20261023080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20261023080257&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c19c55ec68f522655993e693419e903e
+#EXTINF:-1 group-title="HS港澳台直播",四海钓鱼
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=20261023080258eb750f25190e45b8a392c59ff891d15d&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20261023080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=171.8.79.254&SecurityKey=20261023080258&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f30bb509c9966c4ab410e09c429d021c
+#EXTINF:-1 group-title="HS港澳台直播",中国农林卫视
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20261023080300336c59ed35aa47cc902467e01526c26f&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261023080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261023080300&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a9cb85fad884b59ded1ad1d8c67bebd9
+#EXTINF:-1 group-title="HS港澳台直播",上视新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=2026102308030016be31da955742478893c6547711c436&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261023080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20261023080300&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3b22d11e104e28fc744ea1b27b8524d
+#EXTINF:-1 group-title="HS港澳台直播",上视东方影视
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=20261023080301893461c1754d41a59ed6376f676ab2d6&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20261023080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20261023080301&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ca0b3317e6ef3471de7dfb07a128558a
+#EXTINF:-1 group-title="HS港澳台直播",江苏城市
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=20261023080301cf8570a3191a4feb91045cab0b0898ef&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261023080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=171.8.79.254&SecurityKey=20261023080301&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=32dcbe26b2ca46960948ddd035d80add
+#EXTINF:-1 group-title="HS港澳台直播",江苏国际
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=202610230803020ec6d5ca58b64bb08bca6e656d934147&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=67727505ba857d06651b0673280231cd
+#EXTINF:-1 group-title="HS港澳台直播",江苏教育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=2026102308030232c409257324431098d63f677d91662b&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fdfb5022c111c080ebe26267ae05ce8d
+#EXTINF:-1 group-title="HS港澳台直播",江苏影视
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=202610230803020910cd485b2e47c4ac0c1fa62f016c1f&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8b2dbe417256c4892f1e478a5a046fc1
+#EXTINF:-1 group-title="HS港澳台直播",江苏综艺
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20261023080302e705d53f48684a7b8ad372f41fafac59&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1ce8d1e3bfb79d50da8be4ffcb6d0f49
+#EXTINF:-1 group-title="HS港澳台直播",公共新闻
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=20261023080302f38981355e7c442880cdf471c09978ce&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e84fcf2fd1e0b76d789169dc897582f
+#EXTINF:-1 group-title="HS港澳台直播",盐城新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=20261023080302b17933d749f846e2a179a8a7a084501d&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20261023080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20261023080302&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0524ce7dbe0731e07016c8c894511ba1
+#EXTINF:-1 group-title="HS港澳台直播",泰州新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=202610230803036765f5a612074940b745235ab71f5a2c&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20261023080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20261023080303&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=abade05ed21bec3e69945f756aca1533
+#EXTINF:-1 group-title="HS港澳台直播",连云港新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=202610230803035599ddd58d6040cebda6fda6edb91d1b&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20261023080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=171.8.79.254&SecurityKey=20261023080303&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a792057f6b07df166674dbda5c3f420b
+#EXTINF:-1 group-title="HS港澳台直播",宿迁新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=202610230803038cf364ce1ea84ac6a4b6f796bd664c15&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20261023080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20261023080303&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4c2cfd2bcec02b4374e0c15d1f45857f
+#EXTINF:-1 group-title="HS港澳台直播",宜兴新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/50/20250604/index.m3u8?msisdn=20261023080304b70816177177494fbfe90c4e36687583&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20261023080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20261023080304&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bf22d24c7fb337fc71dddbbe30f272e9
+#EXTINF:-1 group-title="HS港澳台直播",陕西银龄
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=2026102308030494fcdabcedc1448aad0c317e7ccf0a2d&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20261023080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=171.8.79.254&SecurityKey=20261023080304&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d1fbfb202818caff623494c2a4d014c
+#EXTINF:-1 group-title="HS港澳台直播",陕西秦腔
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=2026102308030425fbd6e7c13a46d7a846f25ef67cf4c7&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20261023080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=171.8.79.254&SecurityKey=20261023080304&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d376d5312ae493ab003cfe412311913d
+#EXTINF:-1 group-title="HS港澳台直播",财富天下
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=2026102308030575b3553ba7f74d48b9cb6d5a64af498d&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20261023080305&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20261023080305&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=deda34eab0eb1dfa622aee75e0f8a8ec
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台新闻
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261023060257b2f86986c70847d191c7ceec2966a592&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261023060257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261023060257&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=144e416350ea2cab68b62307b0662c3f
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台自贸
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202610230602571a266a4bf9ba4e00ab0aab6e2091b0bb&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261023060257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261023060257&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41f640893e42501d2d2dcd435456a52e
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台文旅
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261023060258bcdda2dcb3964cfebedf72af25186bad&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261023060258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261023060258&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c8b1a82526b7148e3eaf6b7055969048
+#EXTINF:-1 group-title="HS港澳台直播",海南广播电视总台少儿
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610230602587b4fcf5ddb0a4c8382831d4f39b8989f&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261023060258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261023060258&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=de43f5512c249d129f8d5fce4c8162a3
 #EXTINF:-1 group-title="HS港澳台直播",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",翡翠综合
@@ -921,8 +2969,6 @@ https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",浙江留学
 https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 group-title="HS港澳台直播",东丰综合
-http://stream5.jlntv.cn/df/sd/live.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",哈尔滨生活
 https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 group-title="HS港澳台直播",湖州公共
